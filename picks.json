@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-03T22:57:18-05:00",
+  "generatedAt": "2026-11-04T09:20:00-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -171,6 +171,74 @@
       "reasoning_zh": "猛犸9-5对3-8-4且缺三名主力的飞人；但飞人两人临场复出，猛犸3-6告负。",
       "status": "lost",
       "score": "6-3"
+    },
+    {
+      "id": "soc-20261104-brugge-psv-ucl",
+      "sport": "soccer",
+      "league": "ucl",
+      "home_team": "PSV Eindhoven",
+      "away_team": "Club Brugge",
+      "start_time": "2026-11-04T15:00:00",
+      "market": "moneyline",
+      "selection": "Club Brugge",
+      "odds": 240,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Brugge have won eight straight in all competitions and score freely in Europe, while PSV have scored just twice in three UCL games. Model 33% vs market 28.3% - a +4.7 pt edge.",
+      "reasoning_zh": "布鲁日各项赛事8连胜、欧冠进攻火力正盛，埃因霍温欧冠三场只进2球；自估33% vs 市场28.3%，错价+4.7点。",
+      "status": "pending",
+      "score": null
+    },
+    {
+      "id": "nba-20261104-phi-det",
+      "sport": "nba",
+      "league": "nba",
+      "home_team": "Detroit Pistons",
+      "away_team": "Philadelphia 76ers",
+      "start_time": "2026-11-04T19:00:00",
+      "market": "moneyline",
+      "selection": "Philadelphia 76ers",
+      "odds": 110,
+      "odds_format": "american",
+      "confidence": "high",
+      "reasoning_en": "Philadelphia are 7-1 and Embiid is back after Detroit beat them without him on Oct 26; Detroit's starting center Duren is out. Model 54% vs market 45.7% - a +8.3 pt edge.",
+      "reasoning_zh": "76人7胜1负，恩比德回归（10月26日活塞赢的那场恩比德轮休）；活塞首发中锋杜伦缺阵；自估54% vs 市场45.7%，错价+8.3点。",
+      "status": "pending",
+      "score": null
+    },
+    {
+      "id": "nba-20261104-bkn-cha",
+      "sport": "nba",
+      "league": "nba",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Charlotte Hornets",
+      "start_time": "2026-11-04T19:30:00",
+      "market": "moneyline",
+      "selection": "Brooklyn Nets",
+      "odds": 136,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Charlotte were just beaten 124-91 by Detroit and their returning scorers may be on minutes limits; Brooklyn are home. Model 46% vs market 40.7% - a +5.3 pt edge.",
+      "reasoning_zh": "黄蜂刚被活塞124-91血洗，复出得分手还可能限时；篮网主场作战；自估46% vs 市场40.7%，错价+5.3点。",
+      "status": "pending",
+      "score": null
+    },
+    {
+      "id": "nhl-20261104-sjs-lak",
+      "sport": "nhl",
+      "league": "nhl",
+      "home_team": "Los Angeles Kings",
+      "away_team": "San Jose Sharks",
+      "start_time": "2026-11-04T22:00:00",
+      "market": "moneyline",
+      "selection": "San Jose Sharks",
+      "odds": 130,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Conditional - counts only if Askarov and Kuemper both start, otherwise void. Los Angeles are 1-4-0 at home with the league's worst penalty kill and Kuemper at .878. Model 47% vs market 41.7% - a +5.3 pt edge.",
+      "reasoning_zh": "条件单：阿斯卡罗夫与库珀双双首发才成立，否则作废。国王主场1胜4负、罚杀联盟垫底，库珀仅.878；自估47% vs 市场41.7%，错价+5.3点。",
+      "status": "pending",
+      "score": null
     }
   ],
   "record": {
