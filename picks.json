@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-06T09:16:22-05:00",
+  "generatedAt": "2026-11-06T22:57:38-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -288,14 +288,14 @@
       "confidence": "medium",
       "reasoning_en": "Conditional — counts only if Scottie Barnes is confirmed OUT; void if he plays. Milwaukee are healthy at home while Toronto may miss Barnes, with Leonard already out six games and Poeltl status unclear.",
       "reasoning_zh": "条件单：仅当巴恩斯确认缺阵时成立，若其出战则作废。雄鹿主场阵容齐整，猛龙或缺巴恩斯、伦纳德已缺6场、波尔特尔出战未定。",
-      "status": "pending",
-      "score": null
+      "status": "lost",
+      "score": "107-121"
     }
   ],
   "record": {
-    "asOf": "2026-11-05",
+    "asOf": "2026-11-06",
     "wins": 44,
-    "losses": 32,
+    "losses": 33,
     "pushes": 0,
     "halfWins": 1,
     "roiPercent": null
