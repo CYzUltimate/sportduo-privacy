@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-06T22:57:38-05:00",
+  "generatedAt": "2026-11-07T09:04:56-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -290,6 +290,57 @@
       "reasoning_zh": "条件单：仅当巴恩斯确认缺阵时成立，若其出战则作废。雄鹿主场阵容齐整，猛龙或缺巴恩斯、伦纳德已缺6场、波尔特尔出战未定。",
       "status": "lost",
       "score": "107-121"
+    },
+    {
+      "id": "soc-20261107-mancity-nottingham-premier-league",
+      "sport": "soccer",
+      "league": "premier-league",
+      "home_team": "Nottingham Forest",
+      "away_team": "Manchester City",
+      "start_time": "2026-11-07T12:30:00",
+      "market": "moneyline",
+      "selection": "Manchester City",
+      "odds": -133,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Our 62% vs market 56.6% (de-juiced), +5.4 pts edge: Forest have no home goal in five; Haaland scores in every away game.",
+      "reasoning_zh": "自估62% vs 市场去水56.6%，错价+5.4点：森林主场5场0进球，哈兰德客场场场破门。",
+      "status": "pending",
+      "score": null
+    },
+    {
+      "id": "nba-20261107-nyk-cle",
+      "sport": "nba",
+      "league": "nba",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "New York Knicks",
+      "start_time": "2026-11-07T20:00:00",
+      "market": "moneyline",
+      "selection": "Cleveland Cavaliers",
+      "odds": 165,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Our 42% vs market 36.1% (de-juiced), +5.9 pts edge: Cavs are 4-1 at home and just beat the 76ers by 24 without Allen.",
+      "reasoning_zh": "自估42% vs 市场去水36.1%，错价+5.9点：骑士主场4胜1负，昨日无艾伦仍大胜76人24分。",
+      "status": "pending",
+      "score": null
+    },
+    {
+      "id": "soc-20261107-bremen-stuttgart-bundesliga",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Werder Bremen",
+      "start_time": "2026-11-07T12:30:00",
+      "market": "moneyline",
+      "selection": "Werder Bremen",
+      "odds": 400,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Our 27% vs market 19.6% (de-juiced), +7.4 pts edge: Bremen unbeaten in seven; Fullkrug leads the Bundesliga with nine goals.",
+      "reasoning_zh": "自估27% vs 市场去水19.6%，错价+7.4点：不莱梅7场不败，菲尔克鲁格9球领跑德甲。",
+      "status": "pending",
+      "score": null
     }
   ],
   "record": {
