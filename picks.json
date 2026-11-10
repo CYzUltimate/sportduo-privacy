@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-10T11:49:38-05:00",
+  "generatedAt": "2026-11-10T17:20:00-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -485,33 +485,6 @@
         "cover_prob": 56,
         "note_en": "Market +3.5 vs our fair +1.8 (derived from the 44% win estimate): roughly 1.5 pts of cushion on the Clippers side. Spread data - tracked separately from the moneyline record.",
         "note_zh": "市场盘快船 +3.5，我们的公平盘 +1.8（由自估44%胜率换算）：快船这边约有1.5分余量。让分数据单独跟踪，不计入独赢战绩。",
-        "status": "pending"
-      }
-    },
-    {
-      "id": "nhl-20261110-nsh-lak",
-      "sport": "nhl",
-      "league": "nhl",
-      "home_team": "Los Angeles Kings",
-      "away_team": "Nashville Predators",
-      "start_time": "2026-11-10T22:00:00",
-      "market": "moneyline",
-      "selection": "Nashville Predators",
-      "odds": 114,
-      "odds_format": "american",
-      "confidence": "medium",
-      "reasoning_en": "Conditional - counts only if Saros and Kuemper both start; void if either is replaced. Our 51% vs market 44.9% (de-juiced), +6.1 pts edge: Nashville have won four straight (3.8 goals for, 2.0 against) with elite special teams; the Kings are 2-5-0 at home and Kuemper is at .878.",
-      "reasoning_zh": "条件单：仅当萨罗斯与库珀双双确认首发才成立，任一换人直接作废。自估51% vs 市场去水44.9%，错价+6.1点：掠夺者4连胜（场均3.8球仅失2.0球）、特勤组精英；国王主场2胜5负，库珀仅.878。",
-      "status": "pending",
-      "score": null,
-      "spread": {
-        "selection": "Nashville Predators",
-        "line": 1.5,
-        "odds": -215,
-        "fair_line": null,
-        "cover_prob": 72,
-        "note_en": "The puck line is fixed at 1.5, so the edge is in the price: our 51% win estimate plus the one-goal-loss share prices this nearer -255 than the market -215. Same condition as the moneyline pick (Saros and Kuemper must both start). Spread data - tracked separately.",
-        "note_zh": "冰球让分固定1.5球，价值在价格：按自估51%胜率加一球小负的比例，公平价约-255，市场-215偏便宜。与独赢同一条件：萨罗斯与库珀双双首发才成立。让分数据单独跟踪。",
         "status": "pending"
       }
     }
