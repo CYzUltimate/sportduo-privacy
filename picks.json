@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-09T22:59:43-05:00",
+  "generatedAt": "2026-11-10T09:08:43-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -460,6 +460,40 @@
       "reasoning_zh": "条件单：仅当巴恩斯确认缺阵时成立，若其出战则作废。自估52%（巴恩斯缺阵时）vs 市场去水41.5%，错价+10.5点（伤缺核心证据折半后+5.2点）：猛龙或缺三大核心，伦纳德已缺阵、奎克利存疑；灰熊联盟第一进攻。",
       "status": "won",
       "score": "102-118"
+    },
+    {
+      "id": "nba-20261110-lac-phx",
+      "sport": "nba",
+      "league": "nba",
+      "home_team": "Phoenix Suns",
+      "away_team": "LA Clippers",
+      "start_time": "2026-11-10T21:00:00",
+      "market": "moneyline",
+      "selection": "LA Clippers",
+      "odds": 143,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Our 44% vs market 39.5% (de-juiced), +4.5 pts edge at the line: Phoenix are on the second night of a back-to-back after a 26-point home loss to San Antonio; the Clippers' net rating (-3.7) is better than Phoenix (-8.1). Thin call - models disagree on the Clippers (40-44%).",
+      "reasoning_zh": "自估44% vs 市场去水39.5%，错价+4.5点压线入选：太阳背靠背第二夜、前夜主场惨败马刺26分；快船净效率-3.7优于太阳-8.1。压线单，模型对快船分歧大（40%-44%）。",
+      "status": "pending",
+      "score": null
+    },
+    {
+      "id": "nhl-20261110-nsh-lak",
+      "sport": "nhl",
+      "league": "nhl",
+      "home_team": "Los Angeles Kings",
+      "away_team": "Nashville Predators",
+      "start_time": "2026-11-10T22:00:00",
+      "market": "moneyline",
+      "selection": "Nashville Predators",
+      "odds": 114,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Conditional - counts only if Saros and Kuemper both start; void if either is replaced. Our 51% vs market 44.9% (de-juiced), +6.1 pts edge: Nashville have won four straight (3.8 goals for, 2.0 against) with elite special teams; the Kings are 2-5-0 at home and Kuemper is at .878.",
+      "reasoning_zh": "条件单：仅当萨罗斯与库珀双双确认首发才成立，任一换人直接作废。自估51% vs 市场去水44.9%，错价+6.1点：掠夺者4连胜（场均3.8球仅失2.0球）、特勤组精英；国王主场2胜5负，库珀仅.878。",
+      "status": "pending",
+      "score": null
     }
   ],
   "record": {
