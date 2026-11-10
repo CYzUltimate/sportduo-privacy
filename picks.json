@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-09T09:14:38-05:00",
+  "generatedAt": "2026-11-09T22:59:43-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -441,8 +441,8 @@
       "confidence": "high",
       "reasoning_en": "Our 54% vs market 44.2% (de-juiced), +9.8 pts edge (halved to +4.9 as injury-core evidence): Doncic is confirmed out with back tightness and the Lakers are on the second night of a back-to-back; the Hawks have won four straight at home with the league's second-best scoring run.",
       "reasoning_zh": "自估54% vs 市场去水44.2%，错价+9.8点（伤缺核心证据折半后+4.9点）：东契奇确认缺阵、湖人背靠背第二夜；老鹰4连胜主场出击，近4场得分联盟第2。",
-      "status": "pending",
-      "score": null
+      "status": "lost",
+      "score": "114-124"
     },
     {
       "id": "nba-20261109-mem-tor",
@@ -458,14 +458,14 @@
       "confidence": "medium",
       "reasoning_en": "Conditional — counts only if Scottie Barnes is confirmed OUT; void if he plays. Our 52% (if Barnes sits) vs market 41.5% (de-juiced), +10.5 pts edge (halved to +5.2 as injury-core evidence): Toronto may miss three starters with Leonard already out and Quickley doubtful; Memphis own the league's top-scoring offense.",
       "reasoning_zh": "条件单：仅当巴恩斯确认缺阵时成立，若其出战则作废。自估52%（巴恩斯缺阵时）vs 市场去水41.5%，错价+10.5点（伤缺核心证据折半后+5.2点）：猛龙或缺三大核心，伦纳德已缺阵、奎克利存疑；灰熊联盟第一进攻。",
-      "status": "pending",
-      "score": null
+      "status": "won",
+      "score": "102-118"
     }
   ],
   "record": {
-    "asOf": "2026-11-08",
-    "wins": 48,
-    "losses": 37,
+    "asOf": "2026-11-09",
+    "wins": 49,
+    "losses": 38,
     "pushes": 0,
     "halfWins": 1,
     "roiPercent": null
