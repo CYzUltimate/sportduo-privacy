@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-10T22:58:11-05:00",
+  "generatedAt": "2026-11-11T09:13:49-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -475,8 +475,8 @@
       "confidence": "medium",
       "reasoning_en": "Our 44% vs market 39.5% (de-juiced), +4.5 pts edge at the line: Phoenix are on the second night of a back-to-back after a 26-point home loss to San Antonio; the Clippers' net rating (-3.7) is better than Phoenix (-8.1). Thin call - models disagree on the Clippers (40-44%).",
       "reasoning_zh": "自估44% vs 市场去水39.5%，错价+4.5点压线入选：太阳背靠背第二夜、前夜主场惨败马刺26分；快船净效率-3.7优于太阳-8.1。压线单，模型对快船分歧大（40%-44%）。",
-      "status": "pending",
-      "score": null,
+      "status": "lost",
+      "score": "133-110",
       "spread": {
         "selection": "LA Clippers",
         "line": 3.5,
@@ -485,6 +485,60 @@
         "cover_prob": 56,
         "note_en": "Market +3.5 vs our fair +1.8 (derived from the 44% win estimate): roughly 1.5 pts of cushion on the Clippers side. Spread data - tracked separately from the moneyline record.",
         "note_zh": "市场盘快船 +3.5，我们的公平盘 +1.8（由自估44%胜率换算）：快船这边约有1.5分余量。让分数据单独跟踪，不计入独赢战绩。",
+        "status": "lost"
+      }
+    },
+    {
+      "id": "nba-20261111-gsw-hou",
+      "sport": "nba",
+      "league": "nba",
+      "home_team": "Houston Rockets",
+      "away_team": "Golden State Warriors",
+      "start_time": "2026-11-11T21:30:00",
+      "market": "moneyline",
+      "selection": "Golden State Warriors",
+      "odds": 196,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Eight-game win streak behind a red-hot Curry (32.3 ppg last 5); Houston are without both centres, leaving Sengun alone inside. Our 38% vs market 32.5% (+5.5 pts edge).",
+      "reasoning_zh": "勇士8连胜、库里近5场32.3分；火箭两名中锋全缺，内线只剩申京。自估38%对市场32.5%，错价+5.5点。",
+      "status": "pending",
+      "score": null,
+      "spread": {
+        "selection": "Golden State Warriors",
+        "line": 6.5,
+        "odds": -113,
+        "fair_line": 3.5,
+        "cover_prob": 59,
+        "note_en": "Market +6.5 (-113) vs our fair +3.5 (derived from the 38% win estimate): about 3 pts of cushion. Spread data - tracked separately from the moneyline record.",
+        "note_zh": "市场盘勇士 +6.5（-113），我们的公平盘 +3.5（由自估38%胜率换算）：约3分余量。让分数据单独跟踪，不计入独赢战绩。",
+        "status": "pending"
+      }
+    },
+    {
+      "id": "nba-20261111-okc-por",
+      "sport": "nba",
+      "league": "nba",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "Oklahoma City Thunder",
+      "start_time": "2026-11-11T22:00:00",
+      "market": "moneyline",
+      "selection": "Portland Trail Blazers",
+      "odds": -102,
+      "odds_format": "american",
+      "confidence": "medium",
+      "reasoning_en": "Beat Oklahoma City by 20 at home last night in the same building; the Thunder are missing three starters and SGA carries the load alone. Our 54% vs market 48.5% (+5.5 pts edge).",
+      "reasoning_zh": "昨晚主场赢雷霆20分，同一场地复赛；雷霆缺三名先发，SGA独木难支。自估54%对市场48.5%，错价+5.5点。",
+      "status": "pending",
+      "score": null,
+      "spread": {
+        "selection": "Portland Trail Blazers",
+        "line": 1.5,
+        "odds": -110,
+        "fair_line": -1.2,
+        "cover_prob": 59,
+        "note_en": "Market +1.5 (-110) vs our fair -1.2 (derived from the 54% win estimate): about 2.5 pts of cushion. Spread data - tracked separately from the moneyline record.",
+        "note_zh": "市场盘开拓者 +1.5（-110），我们的公平盘 -1.2（由自估54%胜率换算）：约2.5分余量。让分数据单独跟踪，不计入独赢战绩。",
         "status": "pending"
       }
     }
@@ -492,7 +546,7 @@
   "record": {
     "asOf": "2026-11-10",
     "wins": 49,
-    "losses": 38,
+    "losses": 39,
     "pushes": 0,
     "halfWins": 1,
     "roiPercent": null
