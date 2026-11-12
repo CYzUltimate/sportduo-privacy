@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-11T17:17:18-05:00",
+  "generatedAt": "2026-11-11T21:18:33-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -524,21 +524,21 @@
       "start_time": "2026-11-11T22:00:00",
       "market": "moneyline",
       "selection": "Portland Trail Blazers",
-      "odds": 102,
+      "odds": -145,
       "odds_format": "american",
       "confidence": "medium",
-      "reasoning_en": "Beat Oklahoma City by 20 at home last night in the same building; the Thunder are missing three starters and SGA carries the load alone. Our 54% vs market 48.5% (+5.5 pts edge). [Line watch 2026-11-11 12:17 EST: moneyline corrected -102 -> +102; edge now +6.4 pts vs market 47.6% — pick stands.] [Line watch 2026-11-11 17:17 EST: Ajay Mitchell (OKC's second-leading scorer, 18.5 ppg) ruled OUT with a left ankle sprain per the NBA's official 4:15 p.m. ET injury report — the Thunder are even thinner; moneyline still +102 / spread +1.5 (-110), pick stands and is strengthened.]",
-      "reasoning_zh": "昨晚主场赢雷霆20分，同一场地复赛；雷霆缺三名先发，SGA独木难支。自估54%对市场48.5%，错价+5.5点。【12:17盯盘更正：独赢赔率 -102 → +102；错价现为+6.4点（市场47.6%），推荐不变。】【17:17盯盘更正：雷霆二号得分手米切尔（场均18.5分）因左脚踝扭伤被NBA官方16:15伤病报告确认缺阵，雷霆轮换更缺人；独赢仍+102、让分+1.5（-110），推荐不变且利好更大。】",
+      "reasoning_en": "Beat Oklahoma City by 20 at home last night in the same building; the Thunder are missing three starters and SGA carries the load alone. Our 54% vs market 48.5% (+5.5 pts edge). [Line watch 2026-11-11 12:17 EST: moneyline corrected -102 -> +102; edge now +6.4 pts vs market 47.6% — pick stands.] [Line watch 2026-11-11 17:17 EST: Ajay Mitchell (OKC's second-leading scorer, 18.5 ppg) ruled OUT with a left ankle sprain per the NBA's official 4:15 p.m. ET injury report — the Thunder are even thinner; moneyline still +102 / spread +1.5 (-110), pick stands and is strengthened.] [Line watch 2026-11-11 21:18 EST FINAL SWEEP: moneyline corrected +102 -> -145 (consensus; DraftKings -147, Gridiron consensus -145, Action -136); spread flipped +1.5 (-110) -> -2.5 (-109). Market de-juiced now ~56.3% vs our 54% — edge now -2.3 pts, value gone; pick NO LONGER STANDS at this price, recommend abandoning — awaiting user's call. No new core injury since 17:17; SGA available, official starters not yet out.]",
+      "reasoning_zh": "昨晚主场赢雷霆20分，同一场地复赛；雷霆缺三名先发，SGA独木难支。自估54%对市场48.5%，错价+5.5点。【12:17盯盘更正：独赢赔率 -102 → +102；错价现为+6.4点（市场47.6%），推荐不变。】【17:17盯盘更正：雷霆二号得分手米切尔（场均18.5分）因左脚踝扭伤被NBA官方16:15伤病报告确认缺阵，雷霆轮换更缺人；独赢仍+102、让分+1.5（-110），推荐不变且利好更大。】【21:18盯盘更正（终扫）：独赢赔率 +102 → -145（共识；DraftKings -147、Gridiron共识-145、Action -136）；让分 +1.5（-110）→ -2.5（-109）。市场去水现约56.3%，自估54%，错价-2.3点，价值已没，当前价不再成立，建议放弃，等用户定夺。17:17后无新核心伤停；SGA可出战，官方首发名单未出。】",
       "status": "pending",
       "score": null,
       "spread": {
         "selection": "Portland Trail Blazers",
-        "line": 1.5,
-        "odds": -110,
+        "line": -2.5,
+        "odds": -109,
         "fair_line": -1.2,
         "cover_prob": 59,
-        "note_en": "Market +1.5 (-110) vs our fair -1.2 (derived from the 54% win estimate): about 2.5 pts of cushion. Spread data - tracked separately from the moneyline record.",
-        "note_zh": "市场盘开拓者 +1.5（-110），我们的公平盘 -1.2（由自估54%胜率换算）：约2.5分余量。让分数据单独跟踪，不计入独赢战绩。",
+        "note_en": "Market +1.5 (-110) vs our fair -1.2 (derived from the 54% win estimate): about 2.5 pts of cushion. Spread data - tracked separately from the moneyline record. [Line watch 2026-11-11 21:18 EST: spread flipped +1.5 (-110) -> -2.5 (-109); market line now 1.3 pts beyond our fair line, cushion gone.]",
+        "note_zh": "市场盘开拓者 +1.5（-110），我们的公平盘 -1.2（由自估54%胜率换算）：约2.5分余量。让分数据单独跟踪，不计入独赢战绩。【21:18盯盘更正：让分 +1.5（-110）→ -2.5（-109）；市场盘已超出公平盘1.3分，余量没了。】",
         "status": "pending"
       }
     }
