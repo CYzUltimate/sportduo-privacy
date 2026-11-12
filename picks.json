@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-12T09:23:52-05:00",
+ "generatedAt": "2026-11-12T12:46:18-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -566,33 +566,6 @@
     "cover_prob": 31,
     "note_en": "Market puck line -1.5 (+195) vs our cover estimate 31% (derived from the 58% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.58 x 0.53). The moneyline edge does not fully carry to the puck line at this price. Spread data - tracked separately from the moneyline record.",
     "note_zh": "市场让分盘棕熊 -1.5（+195），我们的过盘概率估31%（由自估58%胜率换算：约53%的胜场赢2球以上，含空门球，0.58×0.53）。独赢的错价并未完全传导到让分盘。让分数据单独跟踪，不计入独赢战绩。",
-    "status": "pending"
-   }
-  },
-  {
-   "id": "nhl-20261112-min-tor",
-   "sport": "nhl",
-   "league": "nhl",
-   "home_team": "Toronto Maple Leafs",
-   "away_team": "Minnesota Wild",
-   "start_time": "2026-11-12T19:00:00",
-   "market": "moneyline",
-   "selection": "Minnesota Wild",
-   "odds": -170,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Conditional - counts only if Jesper Wallstedt AND Sergei Bobrovsky are both confirmed starters; void if either is replaced (Stolarz starting drops this to a cold line; Pickard starting voids it entirely). Our 66% (with Bobrovsky starting) vs market 60.4% (de-juiced), +5.6 pts edge: Wallstedt .925/1.93 vs Bobrovsky .881/3.47 on a five-game losing run; Toronto have lost four straight and are winless in November, missing Tavares, Domi and Marchenko.",
-   "reasoning_zh": "条件单：仅当沃尔斯特德与博布罗夫斯基双双确认首发时成立，任一换人直接作废（斯托拉兹首发降搏冷，皮卡德首发整场作废）。自估66%（博布罗夫斯基首发时）vs 市场去水60.4%，错价+5.6点：沃尔斯特德.925/1.93对博布罗夫斯基.881/3.47且5连败；枫叶4连败、11月未胜，缺塔瓦雷斯/多米/马尔琴科。",
-   "status": "pending",
-   "score": null,
-   "spread": {
-    "selection": "Minnesota Wild",
-    "line": -1.5,
-    "odds": 145,
-    "fair_line": null,
-    "cover_prob": 35,
-    "note_en": "Market puck line -1.5 (+145) vs our cover estimate 35% (derived from the 66% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.66 x 0.53). Inherits the moneyline goalie condition - if the condition fails, this spread block is deleted with the pick. Spread data - tracked separately from the moneyline record.",
-    "note_zh": "市场让分盘荒野 -1.5（+145），我们的过盘概率估35%（由自估66%胜率换算：约53%的胜场赢2球以上，含空门球，0.66×0.53）。继承独赢的门将条件——条件不成立则本让分块随整单删除。让分数据单独跟踪，不计入独赢战绩。",
     "status": "pending"
    }
   }
