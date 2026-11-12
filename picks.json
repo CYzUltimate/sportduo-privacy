@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-11T21:18:33-05:00",
+  "generatedAt": "2026-11-11T22:58:39-05:00",
   "picks": [
     {
       "id": "soc-20261103-bodo-lille-ucl",
@@ -544,7 +544,7 @@
     }
   ],
   "record": {
-    "asOf": "2026-11-10",
+    "asOf": "2026-11-11",
     "wins": 49,
     "losses": 39,
     "pushes": 0,
