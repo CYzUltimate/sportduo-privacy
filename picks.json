@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-12T12:46:18-05:00",
+ "generatedAt": "2026-11-12T22:57:04-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -554,10 +554,10 @@
    "odds": -125,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 58% vs market 53.2% (de-juiced), +4.8 pts edge: Atlantic leaders Boston are +27 on goal difference vs Montreal's +7; the Canadiens' PDO sits at 1.068 and top defenceman Matheson is out. Thin call - a 56% read would cut the edge to +2.8.",
-   "reasoning_zh": "自估58%对市场去水53.2%，错价+4.8点：棕熊大西洋头名、净胜球+27对加拿大人+7；加拿大人PDO 1.068处高位，头号后卫马瑟森缺阵。压线单——自估若下修至56%错价只剩+2.8点。",
-   "status": "pending",
-   "score": null,
+   "reasoning_en": "Our 58% vs market 53.2% (de-juiced), +4.8 pts edge: Atlantic leaders Boston are +27 on goal difference vs Montreal's +7; the Canadiens' PDO sits at 1.068 and top defenceman Matheson is out. Thin call - a 56% read would cut the edge to +2.8. [Line watch 2026-11-12 13:15 EST: Canadiens announced Mike Matheson RETURNS tonight (out since Oct 27, lower-body) — the 'Matheson is out' leg of the edge is gone; a ~56% read puts the edge at ~+2.8 pts, below the 4-pt A-grade line. Value thin — recommend abandoning at this price, pending user's call. Moneyline unchanged at -125 consensus; puck line still -1.5 (+195). Fowler confirmed to start for MTL; Suzuki/Evans (therapy day) both travelled and are in the projected lineup.]",
+   "reasoning_zh": "自估58%对市场去水53.2%，错价+4.8点：棕熊大西洋头名、净胜球+27对加拿大人+7；加拿大人PDO 1.068处高位，头号后卫马瑟森缺阵。压线单——自估若下修至56%错价只剩+2.8点。【13:15盯盘更正：加拿大人官方宣布头号后卫马瑟森今晚复出（自10月27日下肢伤缺阵至今）——早盘'马瑟森缺阵'这一条已不成立；自估下修至约56%则错价约+2.8点，跌破4点A级线，价值已薄，建议放弃，等用户定夺。独赢共识仍-125、让分仍-1.5（+195），盘口未动。蒙特利尔门将福勒确认首发；苏祖基/埃文斯（理疗日）均随队出征、在预计阵容中。】",
+   "status": "lost",
+   "score": "2-5",
    "spread": {
     "selection": "Boston Bruins",
     "line": -1.5,
@@ -566,14 +566,14 @@
     "cover_prob": 31,
     "note_en": "Market puck line -1.5 (+195) vs our cover estimate 31% (derived from the 58% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.58 x 0.53). The moneyline edge does not fully carry to the puck line at this price. Spread data - tracked separately from the moneyline record.",
     "note_zh": "市场让分盘棕熊 -1.5（+195），我们的过盘概率估31%（由自估58%胜率换算：约53%的胜场赢2球以上，含空门球，0.58×0.53）。独赢的错价并未完全传导到让分盘。让分数据单独跟踪，不计入独赢战绩。",
-    "status": "pending"
+    "status": "lost"
    }
   }
  ],
  "record": {
-  "asOf": "2026-11-11",
+  "asOf": "2026-11-12",
   "wins": 50,
-  "losses": 40,
+  "losses": 41,
   "pushes": 0,
   "halfWins": 1,
   "roiPercent": null
