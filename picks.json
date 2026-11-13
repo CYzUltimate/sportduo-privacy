@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-12T22:57:04-05:00",
+ "generatedAt": "2026-11-13T09:09:21-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -567,6 +567,33 @@
     "note_en": "Market puck line -1.5 (+195) vs our cover estimate 31% (derived from the 58% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.58 x 0.53). The moneyline edge does not fully carry to the puck line at this price. Spread data - tracked separately from the moneyline record.",
     "note_zh": "市场让分盘棕熊 -1.5（+195），我们的过盘概率估31%（由自估58%胜率换算：约53%的胜场赢2球以上，含空门球，0.58×0.53）。独赢的错价并未完全传导到让分盘。让分数据单独跟踪，不计入独赢战绩。",
     "status": "lost"
+   }
+  },
+  {
+   "id": "nba-20261113-nyk-ind",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Indiana Pacers",
+   "away_team": "New York Knicks",
+   "start_time": "2026-11-13T19:00:00",
+   "market": "moneyline",
+   "selection": "New York Knicks",
+   "odds": -270,
+   "odds_format": "american",
+   "confidence": "high",
+   "reasoning_en": "Our 76% vs market 70.0% (de-juiced), +6.0 pts edge: fully healthy New York (league-best defense, 103.5 ppg allowed; Towns on 11 straight double-doubles) visit an Indiana side without Haliburton (hamstring), 1-5 at home and 4-8 without him. numberFire agrees at 76.89%. Thin spot if our read slips to 74% (+4.0, still over the line); Nesmith playing would shave ~1 pt.",
+   "reasoning_zh": "自估76%对市场去水70.0%，错价+6.0点：全员健康的尼克斯（防守联盟最硬、场均仅失103.5分，唐斯连续11场两双）客场打缺哈利伯顿、主场1胜5负的步行者（无哈利伯顿4胜8负）。numberFire交叉验证76.89%，与自估一致。压线提示：自估若下修至74%错价剩+4.0点（仍过线）；内史密斯若出战削约1点。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "New York Knicks",
+    "line": -7.5,
+    "odds": -103,
+    "fair_line": -8.5,
+    "cover_prob": 53,
+    "note_en": "Market spread Knicks -7.5 (-103, consensus across FanDuel/DraftKings/VegasInsider) vs our fair line -8.5 (derived from the 76% win estimate, normal margin model sd~12); cover estimate 53%. Caution: New York are 4-7 ATS this season and have failed to cover in each of their last four night games at Gainbridge Fieldhouse. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘尼克斯 -7.5（-103，FanDuel/DraftKings/VegasInsider共识）对我们的公允让分 -8.5（由自估76%胜率换算，正态分差模型sd约12），过盘概率估53%。提醒：尼克斯本季让分盘4胜7负、近4次夜场作客步行者均未过盘。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
    }
   }
  ],
