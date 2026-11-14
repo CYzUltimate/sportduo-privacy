@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-14T09:14:22-05:00",
+ "generatedAt": "2026-11-14T12:18:38-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -659,21 +659,21 @@
    "start_time": "2026-11-14T19:30:00",
    "market": "moneyline",
    "selection": "Dallas Mavericks",
-   "odds": 110,
+   "odds": -110,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Conditional - counts only if Evan Mobley is OUT, otherwise void. Our 51% (Mobley out) vs market 44.8% (de-juiced), +6.2 pts edge: Dallas (7-5) visit a Cleveland side 6-7 and 4-9 ATS whose frontcourt is down to Jarrett Allen without Mobley (toe); Flagg keeps improving. If Mobley plays, our read is ~45% and the edge is ~0 - void.",
-   "reasoning_zh": "条件单：莫布里缺阵才成立，出战则作废。自估51%（莫布里缺阵时）对市场去水44.8%，错价+6.2点：独行侠（7胜5负）客场打6胜7负、让分盘4胜9负的骑士，莫布里（脚趾）缺阵则骑士内线只剩阿伦；弗拉格越打越好。莫布里若出战，自估约45%、错价约0点，直接作废。",
+   "reasoning_en": "Conditional - counts only if Evan Mobley is OUT, otherwise void. Our 51% (Mobley out) vs market 44.8% (de-juiced), +6.2 pts edge: Dallas (7-5) visit a Cleveland side 6-7 and 4-9 ATS whose frontcourt is down to Jarrett Allen without Mobley (toe); Flagg keeps improving. If Mobley plays, our read is ~45% and the edge is ~0 - void. [Line watch 2026-11-14 12:14 EST: moneyline corrected +110 -> -110 (consensus; Wagerbird 57-book consensus -110, BetMGM -110, Action Network -108); spread moved +2.5 (-110) -> +1.5 (-118). Market de-juiced now ~52.4% vs our 51% (Mobley-out read) - edge now -1.4 pts, below the 4-pt A-grade line. Value gone at this price - recommend abandoning, pending user's call. Mobley still NOT officially confirmed out (listed doubtful/day-to-day, expected to sit per multiple reports); official NBA injury report due ~17:30 ET. If Mobley plays, the pick is void.]",
+   "reasoning_zh": "条件单：莫布里缺阵才成立，出战则作废。自估51%（莫布里缺阵时）对市场去水44.8%，错价+6.2点：独行侠（7胜5负）客场打6胜7负、让分盘4胜9负的骑士，莫布里（脚趾）缺阵则骑士内线只剩阿伦；弗拉格越打越好。莫布里若出战，自估约45%、错价约0点，直接作废。【12:14盯盘更正：独赢赔率 +110 → -110（共识；Wagerbird 57家共识-110、BetMGM -110、Action Network -108）；让分 +2.5（-110）→ +1.5（-118）。市场去水现约52.4%，自估51%（莫布里缺阵时），错价-1.4点，跌破4点A级线，当前价价值已没，建议放弃，等用户定夺。莫布里仍未官方确认缺阵（列为存疑/每日观察，多方消息称预计缺阵）；NBA官方伤病报告约17:30出。若莫布里出战，本单直接作废。】",
    "status": "pending",
    "score": null,
    "spread": {
     "selection": "Dallas Mavericks",
-    "line": 2.5,
-    "odds": -110,
+    "line": 1.5,
+    "odds": -118,
     "fair_line": 0.5,
     "cover_prob": 59,
-    "note_en": "Market spread Mavericks +2.5 (-110, consensus) vs our fair line +0.5 (derived from the 51% win estimate, normal margin model sd~12); cover estimate 59%. Condition inherited from the moneyline pick: counts only if Mobley is out. Spread data - tracked separately from the moneyline record.",
-    "note_zh": "市场让分盘独行侠 +2.5（-110，共识）对我们的公允让分 +0.5（由自估51%胜率换算，正态分差模型sd约12），过盘概率估59%。条件与独赢单相同：莫布里缺阵才成立。让分数据单独跟踪，不计入独赢战绩。",
+    "note_en": "Market spread Mavericks +2.5 (-110, consensus) vs our fair line +0.5 (derived from the 51% win estimate, normal margin model sd~12); cover estimate 59%. Condition inherited from the moneyline pick: counts only if Mobley is out. Spread data - tracked separately from the moneyline record. [Line watch 2026-11-14 12:14 EST: spread moved +2.5 (-110) -> +1.5 (-118); cushion vs our fair line +0.5 narrowed from 2.0 to 1.0 pts. Spread books are split (BetMGM/FanDuel list DAL -1.5 / CLE -1.5).]",
+    "note_zh": "市场让分盘独行侠 +2.5（-110，共识）对我们的公允让分 +0.5（由自估51%胜率换算，正态分差模型sd约12），过盘概率估59%。条件与独赢单相同：莫布里缺阵才成立。让分数据单独跟踪，不计入独赢战绩。【12:14盯盘更正：让分 +2.5（-110）→ +1.5（-118）；对公允盘+0.5的余量从2.0分收窄至1.0分。各家让分盘分歧大（BetMGM/FanDuel开独行侠-1.5/骑士-1.5）。】",
     "status": "pending"
    }
   }
