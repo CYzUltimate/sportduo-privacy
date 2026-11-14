@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-14T12:18:38-05:00",
+ "generatedAt": "2026-11-14T13:18:32-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -608,8 +608,8 @@
    "odds": -150,
    "odds_format": "american",
    "confidence": "high",
-   "reasoning_en": "Our 64% vs market 57.9% (de-juiced), +6.1 pts edge: Pacific leaders Edmonton (4.0 goals/game, McDavid on a 20-game point streak, 3 straight wins) visit a Toronto side that has lost five straight at home, outscored 22-9, with Bobrovsky at .881. Thin spot if our read slips to 62% (+4.1, still over the line); Tanev likely returns and Rielly may too, and Toronto beat Edmonton 7-2 on Oct 24.",
-   "reasoning_zh": "自估64%对市场去水57.9%，错价+6.1点：太平洋头名油人（场均4球、麦克戴维连续20场得分、3连胜）客场打主场五连败、被灌22-9的枫叶，博布罗夫斯基仅.881。压线提示：自估若下修至62%错价剩+4.1点（仍过线）；塔内夫大概率复出、赖利可能复出，且枫叶10月24日刚7-2赢过油人。",
+   "reasoning_en": "Our 64% vs market 57.9% (de-juiced), +6.1 pts edge: Pacific leaders Edmonton (4.0 goals/game, McDavid on a 20-game point streak, 3 straight wins) visit a Toronto side that has lost five straight at home, outscored 22-9, with Bobrovsky at .881. Thin spot if our read slips to 62% (+4.1, still over the line); Tanev likely returns and Rielly may too, and Toronto beat Edmonton 7-2 on Oct 24. [Line watch 2026-11-14 13:14 EST: Toronto have CONFIRMED Anthony Stolarz (.900, 5-3-0) to start instead of Bobrovsky (.881) — Stolarz also beat Edmonton 7-2 on Oct 24 — and Chris Tanev is confirmed back. Our read slips to ~61%, edge now ~+3.1 pts vs market ~57.9%, below the 4-pt A-grade line. Value thin — recommend abandoning, pending user's call. Moneyline consensus ~-152 (vs -150 published), a 2-pt drift; puck line still -1.5 (+154). Rielly still day-to-day, unconfirmed; Edmonton starter Devon Levi (projected).]",
+   "reasoning_zh": "自估64%对市场去水57.9%，错价+6.1点：太平洋头名油人（场均4球、麦克戴维连续20场得分、3连胜）客场打主场五连败、被灌22-9的枫叶，博布罗夫斯基仅.881。压线提示：自估若下修至62%错价剩+4.1点（仍过线）；塔内夫大概率复出、赖利可能复出，且枫叶10月24日刚7-2赢过油人。【13:14盯盘更正：枫叶确认由斯托拉兹（.900，5胜3负）首发而非博布罗夫斯基（.881）——斯托拉兹10月24日刚7-2赢过油人；塔内夫确认复出。自估下修至约61%，错价约+3.1点（市场去水约57.9%），跌破4点A级线，价值已薄，建议放弃，等用户定夺。独赢共识约-152（早盘-150），仅漂移2点；让分仍-1.5（+154）。赖利仍存疑未定；油人门将预计为莱维。】",
    "status": "pending",
    "score": null,
    "spread": {
@@ -632,11 +632,11 @@
    "start_time": "2026-11-14T19:10:00",
    "market": "moneyline",
    "selection": "New Jersey Devils",
-   "odds": -105,
+   "odds": -128,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 56% vs market 51.3% (de-juiced), +4.7 pts edge - a thin call: Hellebuyck is CONFIRMED to start (6-0-0 since the trade, .916) after New Jersey beat Washington 5-2 on Thursday; the Capitals' Thompson is at .889 on five straight starts and Ovechkin has not scored in over a month. A 54% read would cut the edge to +2.7, below the line; Pesce (illness) is unconfirmed for tonight.",
-   "reasoning_zh": "自估56%对市场去水51.3%，错价+4.7点（擦线过线，偏软）：赫莱布伊克确认首发（交易后6胜0负、.916），魔鬼周四刚5-2赢过首都人；首都人汤普森.889连续5场首发，奥维契金已一个多月没进球。自估若下修至54%错价只剩+2.7点（跌破线）；佩希（生病）今晚状态未定。",
+   "reasoning_en": "Our 56% vs market 51.3% (de-juiced), +4.7 pts edge - a thin call: Hellebuyck is CONFIRMED to start (6-0-0 since the trade, .916) after New Jersey beat Washington 5-2 on Thursday; the Capitals' Thompson is at .889 on five straight starts and Ovechkin has not scored in over a month. A 54% read would cut the edge to +2.7, below the line; Pesce (illness) is unconfirmed for tonight. [Line watch 2026-11-14 13:14 EST: moneyline corrected -105 -> -128 (consensus; FanDuel -134, DraftKings -135, Caesars -137, BetMGM -135, BetRivers -129, Action -120). Market de-juiced now ~53.9% vs our 56% — edge now ~+2.1 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Puck line unchanged at -1.5 (~+195 consensus). Hellebuyck confirmed to start as expected; Pesce (illness) still unconfirmed.]",
+   "reasoning_zh": "自估56%对市场去水51.3%，错价+4.7点（擦线过线，偏软）：赫莱布伊克确认首发（交易后6胜0负、.916），魔鬼周四刚5-2赢过首都人；首都人汤普森.889连续5场首发，奥维契金已一个多月没进球。自估若下修至54%错价只剩+2.7点（跌破线）；佩希（生病）今晚状态未定。【13:14盯盘更正：独赢赔率 -105 → -128（共识；FanDuel -134、DraftKings -135、Caesars -137、BetMGM -135、BetRivers -129、Action -120）。市场去水现约53.9%，自估56%，错价+2.1点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。让分仍-1.5（约+195共识）未动。赫莱布伊克如预期确认首发；佩希（生病）仍未定。】",
    "status": "pending",
    "score": null,
    "spread": {
