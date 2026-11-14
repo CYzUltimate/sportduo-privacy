@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-13T22:57:45-05:00",
+ "generatedAt": "2026-11-14T09:14:22-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -594,6 +594,87 @@
     "note_en": "Market spread Knicks -7.5 (-103, consensus across FanDuel/DraftKings/VegasInsider) vs our fair line -8.5 (derived from the 76% win estimate, normal margin model sd~12); cover estimate 53%. Caution: New York are 4-7 ATS this season and have failed to cover in each of their last four night games at Gainbridge Fieldhouse. Spread data - tracked separately from the moneyline record. [Line watch 2026-11-13 13:17 EST: spread moved -7.5 (-103) -> -8.5 (-110); market line now at our fair line -8.5, cushion gone.]",
     "note_zh": "市场让分盘尼克斯 -7.5（-103，FanDuel/DraftKings/VegasInsider共识）对我们的公允让分 -8.5（由自估76%胜率换算，正态分差模型sd约12），过盘概率估53%。提醒：尼克斯本季让分盘4胜7负、近4次夜场作客步行者均未过盘。让分数据单独跟踪，不计入独赢战绩。【13:17盯盘更正：让分 -7.5（-103）→ -8.5（-110）；市场盘已到我们的公允让分-8.5，余量没了。】",
     "status": "lost"
+   }
+  },
+  {
+   "id": "nhl-20261114-edm-tor",
+   "sport": "nhl",
+   "league": "nhl",
+   "home_team": "Toronto Maple Leafs",
+   "away_team": "Edmonton Oilers",
+   "start_time": "2026-11-14T19:10:00",
+   "market": "moneyline",
+   "selection": "Edmonton Oilers",
+   "odds": -150,
+   "odds_format": "american",
+   "confidence": "high",
+   "reasoning_en": "Our 64% vs market 57.9% (de-juiced), +6.1 pts edge: Pacific leaders Edmonton (4.0 goals/game, McDavid on a 20-game point streak, 3 straight wins) visit a Toronto side that has lost five straight at home, outscored 22-9, with Bobrovsky at .881. Thin spot if our read slips to 62% (+4.1, still over the line); Tanev likely returns and Rielly may too, and Toronto beat Edmonton 7-2 on Oct 24.",
+   "reasoning_zh": "自估64%对市场去水57.9%，错价+6.1点：太平洋头名油人（场均4球、麦克戴维连续20场得分、3连胜）客场打主场五连败、被灌22-9的枫叶，博布罗夫斯基仅.881。压线提示：自估若下修至62%错价剩+4.1点（仍过线）；塔内夫大概率复出、赖利可能复出，且枫叶10月24日刚7-2赢过油人。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Edmonton Oilers",
+    "line": -1.5,
+    "odds": 150,
+    "fair_line": null,
+    "cover_prob": 34,
+    "note_en": "Market puck line -1.5 (+150, consensus across TheOddsGap/BetUS) vs our cover estimate 34% (derived from the 64% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.64 x 0.53). The moneyline edge does not fully carry to the puck line at this price. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘油人 -1.5（+150，TheOddsGap/BetUS共识），我们的过盘概率估34%（由自估64%胜率换算：约53%的胜场赢2球以上，含空门球，0.64×0.53）。独赢的错价并未完全传导到让分盘。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
+   }
+  },
+  {
+   "id": "nhl-20261114-njd-wsh",
+   "sport": "nhl",
+   "league": "nhl",
+   "home_team": "Washington Capitals",
+   "away_team": "New Jersey Devils",
+   "start_time": "2026-11-14T19:10:00",
+   "market": "moneyline",
+   "selection": "New Jersey Devils",
+   "odds": -105,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Our 56% vs market 51.3% (de-juiced), +4.7 pts edge - a thin call: Hellebuyck is CONFIRMED to start (6-0-0 since the trade, .916) after New Jersey beat Washington 5-2 on Thursday; the Capitals' Thompson is at .889 on five straight starts and Ovechkin has not scored in over a month. A 54% read would cut the edge to +2.7, below the line; Pesce (illness) is unconfirmed for tonight.",
+   "reasoning_zh": "自估56%对市场去水51.3%，错价+4.7点（擦线过线，偏软）：赫莱布伊克确认首发（交易后6胜0负、.916），魔鬼周四刚5-2赢过首都人；首都人汤普森.889连续5场首发，奥维契金已一个多月没进球。自估若下修至54%错价只剩+2.7点（跌破线）；佩希（生病）今晚状态未定。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "New Jersey Devils",
+    "line": -1.5,
+    "odds": 195,
+    "fair_line": null,
+    "cover_prob": 30,
+    "note_en": "Market puck line -1.5 (+195, consensus) vs our cover estimate 30% (derived from the 56% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.56 x 0.53). The moneyline edge does not fully carry to the puck line at this price. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘魔鬼 -1.5（+195，共识），我们的过盘概率估30%（由自估56%胜率换算：约53%的胜场赢2球以上，含空门球，0.56×0.53）。独赢的错价并未完全传导到让分盘。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
+   }
+  },
+  {
+   "id": "nba-20261114-dal-cle",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Cleveland Cavaliers",
+   "away_team": "Dallas Mavericks",
+   "start_time": "2026-11-14T19:30:00",
+   "market": "moneyline",
+   "selection": "Dallas Mavericks",
+   "odds": 110,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Conditional - counts only if Evan Mobley is OUT, otherwise void. Our 51% (Mobley out) vs market 44.8% (de-juiced), +6.2 pts edge: Dallas (7-5) visit a Cleveland side 6-7 and 4-9 ATS whose frontcourt is down to Jarrett Allen without Mobley (toe); Flagg keeps improving. If Mobley plays, our read is ~45% and the edge is ~0 - void.",
+   "reasoning_zh": "条件单：莫布里缺阵才成立，出战则作废。自估51%（莫布里缺阵时）对市场去水44.8%，错价+6.2点：独行侠（7胜5负）客场打6胜7负、让分盘4胜9负的骑士，莫布里（脚趾）缺阵则骑士内线只剩阿伦；弗拉格越打越好。莫布里若出战，自估约45%、错价约0点，直接作废。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Dallas Mavericks",
+    "line": 2.5,
+    "odds": -110,
+    "fair_line": 0.5,
+    "cover_prob": 59,
+    "note_en": "Market spread Mavericks +2.5 (-110, consensus) vs our fair line +0.5 (derived from the 51% win estimate, normal margin model sd~12); cover estimate 59%. Condition inherited from the moneyline pick: counts only if Mobley is out. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘独行侠 +2.5（-110，共识）对我们的公允让分 +0.5（由自估51%胜率换算，正态分差模型sd约12），过盘概率估59%。条件与独赢单相同：莫布里缺阵才成立。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
    }
   }
  ],
