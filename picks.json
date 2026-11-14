@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-14T13:18:32-05:00",
+ "generatedAt": "2026-11-14T14:14:00-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -635,8 +635,8 @@
    "odds": -128,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 56% vs market 51.3% (de-juiced), +4.7 pts edge - a thin call: Hellebuyck is CONFIRMED to start (6-0-0 since the trade, .916) after New Jersey beat Washington 5-2 on Thursday; the Capitals' Thompson is at .889 on five straight starts and Ovechkin has not scored in over a month. A 54% read would cut the edge to +2.7, below the line; Pesce (illness) is unconfirmed for tonight. [Line watch 2026-11-14 13:14 EST: moneyline corrected -105 -> -128 (consensus; FanDuel -134, DraftKings -135, Caesars -137, BetMGM -135, BetRivers -129, Action -120). Market de-juiced now ~53.9% vs our 56% — edge now ~+2.1 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Puck line unchanged at -1.5 (~+195 consensus). Hellebuyck confirmed to start as expected; Pesce (illness) still unconfirmed.]",
-   "reasoning_zh": "自估56%对市场去水51.3%，错价+4.7点（擦线过线，偏软）：赫莱布伊克确认首发（交易后6胜0负、.916），魔鬼周四刚5-2赢过首都人；首都人汤普森.889连续5场首发，奥维契金已一个多月没进球。自估若下修至54%错价只剩+2.7点（跌破线）；佩希（生病）今晚状态未定。【13:14盯盘更正：独赢赔率 -105 → -128（共识；FanDuel -134、DraftKings -135、Caesars -137、BetMGM -135、BetRivers -129、Action -120）。市场去水现约53.9%，自估56%，错价+2.1点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。让分仍-1.5（约+195共识）未动。赫莱布伊克如预期确认首发；佩希（生病）仍未定。】",
+   "reasoning_en": "Our 56% vs market 51.3% (de-juiced), +4.7 pts edge - a thin call: Hellebuyck is CONFIRMED to start (6-0-0 since the trade, .916) after New Jersey beat Washington 5-2 on Thursday; the Capitals' Thompson is at .889 on five straight starts and Ovechkin has not scored in over a month. A 54% read would cut the edge to +2.7, below the line; Pesce (illness) is unconfirmed for tonight. [Line watch 2026-11-14 13:14 EST: moneyline corrected -105 -> -128 (consensus; FanDuel -134, DraftKings -135, Caesars -137, BetMGM -135, BetRivers -129, Action -120). Market de-juiced now ~53.9% vs our 56% — edge now ~+2.1 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Puck line unchanged at -1.5 (~+195 consensus). Hellebuyck confirmed to start as expected; Pesce (illness) still unconfirmed.] [Line watch 2026-11-14 14:14 EST: Brett Pesce is now CONFIRMED OUT (illness, per the Devils' official site) and Vladislav Kolyachonok is also out sick — New Jersey are down three defensemen with Kovacevic on IR; Silaev called up. Our read slips to ~54-55%, edge now ~0 pts vs market ~54.8% de-juiced — value gone. Abandon recommendation stands (reinforced). Moneyline consensus ~-133 (vs -128 at 13:14), a 5-pt drift, below the 20-pt threshold; puck line still -1.5 (~+190 consensus).]",
+   "reasoning_zh": "自估56%对市场去水51.3%，错价+4.7点（擦线过线，偏软）：赫莱布伊克确认首发（交易后6胜0负、.916），魔鬼周四刚5-2赢过首都人；首都人汤普森.889连续5场首发，奥维契金已一个多月没进球。自估若下修至54%错价只剩+2.7点（跌破线）；佩希（生病）今晚状态未定。【13:14盯盘更正：独赢赔率 -105 → -128（共识；FanDuel -134、DraftKings -135、Caesars -137、BetMGM -135、BetRivers -129、Action -120）。市场去水现约53.9%，自估56%，错价+2.1点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。让分仍-1.5（约+195共识）未动。赫莱布伊克如预期确认首发；佩希（生病）仍未定。】【14:14盯盘更正：佩希（生病）现已确认缺阵（魔鬼官网），科利亚乔诺克同样因病缺阵——魔鬼三名后卫缺阵（另有科瓦切维奇在伤病名单），西拉耶夫紧急上调。自估下修至约54-55%，错价约0点（市场去水约54.8%），价值已没，放弃建议不变（进一步确认）。独赢共识约-133（13:14为-128），仅漂移5点、未达20点阈值；让分仍-1.5（约+190共识）。】",
    "status": "pending",
    "score": null,
    "spread": {
