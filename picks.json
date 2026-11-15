@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-14T22:58:15-05:00",
+ "generatedAt": "2026-11-15T09:15:52-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -675,6 +675,60 @@
     "note_en": "Market spread Mavericks +2.5 (-110, consensus) vs our fair line +0.5 (derived from the 51% win estimate, normal margin model sd~12); cover estimate 59%. Condition inherited from the moneyline pick: counts only if Mobley is out. Spread data - tracked separately from the moneyline record. [Line watch 2026-11-14 12:14 EST: spread moved +2.5 (-110) -> +1.5 (-118); cushion vs our fair line +0.5 narrowed from 2.0 to 1.0 pts. Spread books are split (BetMGM/FanDuel list DAL -1.5 / CLE -1.5).] [Line watch 2026-11-14 17:17 EST: spread moved +1.5 (-118) -> -5.0 (-110); market line now 5.5 pts beyond our fair line +0.5, cushion gone.] [Line watch 2026-11-14 19:14 EST FINAL SWEEP: spread moved -5.0 (-110) -> -8.5 (-107) (Pick Dawgz; FanDuel/Gridiron still -4.5, lagging). Fair line revised +0.5 -> -10 on the ~78-80% win read (five Cavs starters out); cover estimate ~55% at -8.5.]",
     "note_zh": "市场让分盘独行侠 +2.5（-110，共识）对我们的公允让分 +0.5（由自估51%胜率换算，正态分差模型sd约12），过盘概率估59%。条件与独赢单相同：莫布里缺阵才成立。让分数据单独跟踪，不计入独赢战绩。【12:14盯盘更正：让分 +2.5（-110）→ +1.5（-118）；对公允盘+0.5的余量从2.0分收窄至1.0分。各家让分盘分歧大（BetMGM/FanDuel开独行侠-1.5/骑士-1.5）。】【17:17盯盘更正：让分 +1.5（-118）→ -5.0（-110）；市场盘已比公平盘+0.5强出5.5分，余量没了。】【19:14盯盘更正（终扫）：让分 -5.0（-110）→ -8.5（-107）（Pick Dawgz；FanDuel/Gridiron仍-4.5，更新滞后）。公允让分由+0.5修正为-10（自估上修至约78-80%，骑士五先发全缺），-8.5下过盘概率约55%。】",
     "status": "lost"
+   }
+  },
+  {
+   "id": "nhl-20261115-edm-phi",
+   "sport": "nhl",
+   "league": "nhl",
+   "home_team": "Philadelphia Flyers",
+   "away_team": "Edmonton Oilers",
+   "start_time": "2026-11-15T19:30:00",
+   "market": "moneyline",
+   "selection": "Edmonton Oilers",
+   "odds": -155,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Our 63% vs market 58.3% (de-juiced), +4.7 pts edge - a thin call: Edmonton are 8-0-1 on the road with McDavid at 50 points and Draisaitl at 18 goals, visiting a Philadelphia side scoring a league-worst 2.24 goals a game with Vladar at .879 in net; Jarry is hot (.942 over the last 7 days). Both teams are on the second night of a back-to-back and the Flyers took Edmonton to overtime on Thursday, so a 62% read would cut the edge to +3.7, below the line. Final sweep checks Jarry/Vladar starters (Woll in for Vladar drops this to a cold line).",
+   "reasoning_zh": "自估63%对市场去水58.3%，错价+4.7点（擦线过线，偏软）：油人客场8胜0负1，麦克戴维50分、德莱赛特尔18球，客场打场均仅2.24球、联盟垫底的飞人，弗拉达尔仅.879；贾里近7天.942状态火热。两队同为背靠背第二夜、飞人周四仅输加时，自估若下修至62%错价剩+3.7点（跌破线）。终扫核贾里/弗拉达尔首发（沃尔顶替弗拉达尔则降搏冷）。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Edmonton Oilers",
+    "line": -1.5,
+    "odds": 160,
+    "fair_line": null,
+    "cover_prob": 33,
+    "note_en": "Market puck line -1.5 (+160, DraftKings via ESPN) vs our cover estimate 33% (derived from the 63% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.63 x 0.53). The moneyline edge does not fully carry to the puck line at this price. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘油人 -1.5（+160，DK）对我们的过盘概率估33%（由自估63%胜率换算：约53%的胜场赢2球以上，含空门球，0.63×0.53）。独赢的错价并未完全传导到让分盘。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
+   }
+  },
+  {
+   "id": "nhl-20261115-nsh-sjs",
+   "sport": "nhl",
+   "league": "nhl",
+   "home_team": "San Jose Sharks",
+   "away_team": "Nashville Predators",
+   "start_time": "2026-11-15T21:00:00",
+   "market": "moneyline",
+   "selection": "Nashville Predators",
+   "odds": -170,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Conditional - counts only if Juuse Saros starts, otherwise void (Annunen starting voids the pick). Our 66% (Saros in net) vs market 60.4% (de-juiced), +5.6 pts edge: Nashville have won seven straight, allowing two goals or fewer in each of their last six, with Saros at .921; San Jose are on the second night of a back-to-back after a shootout win in Utah, with Nedeljkovic at .895. Marchessault is day-to-day for Nashville; a 64% read would cut the edge to +3.6, below the line.",
+   "reasoning_zh": "条件单：萨罗斯确认首发才成立，安努南首发则整单作废。自估66%（萨罗斯首发时）对市场去水60.4%，错价+5.6点：掠夺者7连胜、近6场每场至多丢2球，萨罗斯.921；鲨鱼背靠背第二夜（昨夜犹他点球胜），内德尔科维奇仅.895。马尔切索下身伤存疑；自估若下修至64%错价剩+3.6点（跌破线）。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Nashville Predators",
+    "line": -1.5,
+    "odds": 142,
+    "fair_line": null,
+    "cover_prob": 35,
+    "note_en": "Market puck line -1.5 (+142, DraftKings via ESPN) vs our cover estimate 35% (derived from the 66% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.66 x 0.53). Condition inherited from the moneyline pick: counts only if Saros starts. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘掠夺者 -1.5（+142，DK）对我们的过盘概率估35%（由自估66%胜率换算：约53%的胜场赢2球以上，含空门球，0.66×0.53）。条件与独赢单相同：萨罗斯首发才成立。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
    }
   }
  ],
