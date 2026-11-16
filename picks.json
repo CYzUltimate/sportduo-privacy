@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-16T09:44:30-05:00",
+ "generatedAt": "2026-11-16T14:17:49-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -782,33 +782,6 @@
     "cover_prob": 59,
     "note_en": "Market +2.5 (-110 consensus) vs our fair -0.3 (derived from the 51% win estimate, normal margin model sd~12): about 2.8 pts of cushion on the Heat side. Spread data - tracked separately from the moneyline record.",
     "note_zh": "市场盘热火 +2.5（-110共识），我们的公平盘 -0.3（由自估51%胜率换算，正态分差模型sd约12）：热火这边约2.8分余量。让分数据单独跟踪，不计入独赢战绩。",
-    "status": "pending"
-   }
-  },
-  {
-   "id": "nhl-20261116-van-uta",
-   "sport": "nhl",
-   "league": "nhl",
-   "home_team": "Utah Mammoth",
-   "away_team": "Vancouver Canucks",
-   "start_time": "2026-11-16T21:30:00",
-   "market": "moneyline",
-   "selection": "Utah Mammoth",
-   "odds": -340,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Conditional - counts only if Logan Cooley plays, otherwise void. Our 80% (Cooley in) vs market 74.1% (de-juiced), +5.9 pts edge: rested Utah host a Vancouver side on the second night of a back-to-back with Lankinen (.808) expected in net; the Canucks are 4-17-1. If Cooley sits, our read is ~77% and the edge is ~+2.9 - void. Final sweep checks Cooley and both goalies.",
-   "reasoning_zh": "条件单：库利确认出战才成立，缺阵则作废。自估80%（库利出战时）对市场去水74.1%，错价+5.9点：休整两天的猛犸主场打背靠背第二夜、预计兰基宁（.808）首发的加人（4胜17负1联盟垫底）。库利若缺阵自估约77%、错价仅+2.9点，作废。终扫核库利+双门将。",
-   "status": "pending",
-   "score": null,
-   "spread": {
-    "selection": "Utah Mammoth",
-    "line": -1.5,
-    "odds": -140,
-    "fair_line": null,
-    "cover_prob": 42,
-    "note_en": "Market puck line -1.5 (-140 consensus) vs our cover estimate 42% (derived from the 80% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.80 x 0.53). Condition inherited from the moneyline pick: counts only if Cooley plays. Spread data - tracked separately from the moneyline record.",
-    "note_zh": "市场让分盘猛犸 -1.5（-140共识），我们的过盘概率估42%（由自估80%胜率换算：约53%的胜场赢2球以上，含空门球，0.80×0.53）。条件与独赢单相同：库利出战才成立。让分数据单独跟踪，不计入独赢战绩。",
     "status": "pending"
    }
   }
