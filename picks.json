@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-16T14:17:49-05:00",
+ "generatedAt": "2026-11-16T17:19:44-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -770,8 +770,8 @@
    "odds": 120,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 51% vs market 43.8% (de-juiced), +7.2 pts edge: rested Miami have won seven of nine at home on a five-game homestand, while Houston are on the second night of a back-to-back without Adams, Capela and Smart, with VanVleet's return undecided. Models disagree (numberFire 56.3% Miami, Statz 64% Houston) - a situational call; VanVleet playing would trim our read to ~49-50%.",
-   "reasoning_zh": "自估51%对市场去水43.8%，错价+7.2点：休整两天的热火主场5连主、近9场7胜，火箭背靠背第二夜且缺亚当斯、卡佩拉、斯马特，范弗利特回归未定。模型分歧大（numberFire给热火56.3%、Statz给火箭64%），属情境单；范弗利特若出战自估约49-50%。",
+   "reasoning_en": "Our 51% vs market 43.8% (de-juiced), +7.2 pts edge: rested Miami have won seven of nine at home on a five-game homestand, while Houston are on the second night of a back-to-back without Adams, Capela and Smart, with VanVleet's return undecided. Models disagree (numberFire 56.3% Miami, Statz 64% Houston) - a situational call; VanVleet playing would trim our read to ~49-50%. [Line watch 2026-11-16 17:17 EST: Fred VanVleet is OFF the injury report and WILL play tonight (Rotoworld/NBC Sports; final injury report 15:30 ET) — the board's key open question, resolved against us. Per the board's own read, VanVleet playing trims our read to ~49-50%; market de-juiced now ~44.2% — edge now ~+5 to +6 pts, still above the 4-pt A-grade line. Pick stands. Steven Adams is OUT tonight (leg management, played Sunday) as the board expected; Capela out, Smart suspended as expected. NEW: Amen Thompson (knee) is questionable — would help Miami if he sits; Pelle Larsson (illness) is doubtful for Miami. Moneyline consensus ~+120 (DraftKings +124, Action +116), unchanged from +120 published; spread still +2.5 (-105).]",
+   "reasoning_zh": "自估51%对市场去水43.8%，错价+7.2点：休整两天的热火主场5连主、近9场7胜，火箭背靠背第二夜且缺亚当斯、卡佩拉、斯马特，范弗利特回归未定。模型分歧大（numberFire给热火56.3%、Statz给火箭64%），属情境单；范弗利特若出战自估约49-50%。【17:17盯盘更正：范弗利特已从伤病名单移除、今晚确认出战（Rotoworld/NBC Sports；15:30最终伤病报告）——早盘关键悬念落定、对我们不利。按早盘口径，范弗利特出战自估下修至约49-50%，市场去水现约44.2%，错价约+5至+6点，仍在4点A级线之上，推荐不变。亚当斯今晚轮休（腿部管理，周日打过）与早盘预期一致；卡佩拉缺阵、斯马特停赛亦如预期。新情况：阿门·汤普森（膝盖）出战成疑，若缺阵对热火利好；热火拉尔森（生病）出战成疑。独赢共识约+120（DraftKings +124、Action +116），与早盘+120持平；让分仍+2.5（-105）。】",
    "status": "pending",
    "score": null,
    "spread": {
