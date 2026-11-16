@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-15T22:58:11-05:00",
+ "generatedAt": "2026-11-16T09:44:30-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -718,8 +718,8 @@
    "confidence": "medium",
    "reasoning_en": "Conditional - counts only if Juuse Saros starts, otherwise void (Annunen starting voids the pick). Our 66% (Saros in net) vs market 60.4% (de-juiced), +5.6 pts edge: Nashville have won seven straight, allowing two goals or fewer in each of their last six, with Saros at .921; San Jose are on the second night of a back-to-back after a shootout win in Utah, with Nedeljkovic at .895. Marchessault is day-to-day for Nashville; a 64% read would cut the edge to +3.6, below the line. [Line watch 2026-11-15 16:14 EST: Juuse Saros CONFIRMED to start (Predators' game-day post; first goalie off the ice at the optional morning skate) - the condition is met, so the pick is LIVE, not void. Moneyline unchanged at -170 consensus (DraftKings -170, Hard Rock -170, FanDuel -172); puck line still -1.5 (+142). Market de-juiced ~60.4% vs our 66% - edge still ~+5.6 pts, pick stands. Marchessault still day-to-day (lower body), no change; Nedeljkovic expected for San Jose as expected. Final sweep at the 20:14 round.] [Line watch 2026-11-15 20:14 EST FINAL SWEEP: moneyline consensus ~-170 (DraftKings -170, BetMGM -170, Hard Rock -170, FanDuel -164/-166, BetRivers -165, Caesars -180) — unchanged from -170 published and from 16:14, a 0-pt drift, below the 20-pt threshold; puck line still -1.5 (+142 consensus; DraftKings/FanDuel +142, BetMGM +140, BetRivers +148), unchanged from +142 published, below the 30-pt threshold. Market de-juiced now ~60.4% vs our 66% — edge still ~+5.6 pts, above the 4-pt A-grade line. Starters CONFIRMED: Juuse Saros for Nashville (Predators' game-day post; first goalie off the ice) and Alex Nedeljkovic for San Jose (coach Warsofsky confirmed he will start) — the condition is MET, so the pick is LIVE, not void. Marchessault still day-to-day (lower body), no change; Alex Wennberg (SJS) out again, as expected. No new core injury. Pick stands — execute per the morning board. This is the final sweep for this game.]",
    "reasoning_zh": "条件单：萨罗斯确认首发才成立，安努南首发则整单作废。自估66%（萨罗斯首发时）对市场去水60.4%，错价+5.6点：掠夺者7连胜、近6场每场至多丢2球，萨罗斯.921；鲨鱼背靠背第二夜（昨夜犹他点球胜），内德尔科维奇仅.895。马尔切索下身伤存疑；自估若下修至64%错价剩+3.6点（跌破线）。【16:14盯盘更正：萨罗斯确认首发（掠夺者官方比赛日动态；晨训首位离场）——条件成立，本单有效、不是作废。独赢共识仍-170（DK -170、Hard Rock -170、FanDuel -172）；让分仍-1.5（+142）。市场去水约60.4%，自估66%，错价仍约+5.6点，推荐不变。马尔切索仍存疑（下身伤）无变化；鲨鱼门将仍为预期的内德尔科维奇。终扫在20:14那轮。】【20:14盯盘更正（终扫）：独赢共识约-170（DraftKings -170、BetMGM -170、Hard Rock -170、FanDuel -164/-166、BetRivers -165、Caesars -180），与早盘-170及16:14持平，漂移0点、未达20点阈值；让分仍-1.5（+142共识；DK/FanDuel +142、BetMGM +140、BetRivers +148），与文件内+142持平，未达30点阈值。市场去水现约60.4%，自估66%，错价仍约+5.6点，在4点A级线之上。门将最终确认：掠夺者萨罗斯（官方比赛日动态；晨训首位离场）、鲨鱼内德尔科维奇（主帅沃索夫斯基确认首发）双双首发——条件成立，本单有效、不是作废。马尔切索仍存疑（下身伤）无变化；鲨鱼温伯格再度缺阵（在预期内）。无新核心伤停。推荐不变，照原单执行。本场终扫完毕。】",
-   "status": "pending",
-   "score": null,
+   "status": "lost",
+   "score": "4-2",
    "spread": {
     "selection": "Nashville Predators",
     "line": -1.5,
@@ -728,6 +728,87 @@
     "cover_prob": 35,
     "note_en": "Market puck line -1.5 (+142, DraftKings via ESPN) vs our cover estimate 35% (derived from the 66% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.66 x 0.53). Condition inherited from the moneyline pick: counts only if Saros starts. Spread data - tracked separately from the moneyline record.",
     "note_zh": "市场让分盘掠夺者 -1.5（+142，DK）对我们的过盘概率估35%（由自估66%胜率换算：约53%的胜场赢2球以上，含空门球，0.66×0.53）。条件与独赢单相同：萨罗斯首发才成立。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "lost"
+   }
+  },
+  {
+   "id": "nba-20261116-mem-was",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Washington Wizards",
+   "away_team": "Memphis Grizzlies",
+   "start_time": "2026-11-16T19:00:00",
+   "market": "moneyline",
+   "selection": "Memphis Grizzlies",
+   "odds": -170,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Our 66% vs market 60.8% (de-juiced), +5.2 pts edge: Memphis are 6-0 on the road, scoring 119.9 per game, against a Washington side on a seven-game losing streak playing the second night of a back-to-back after a 147-119 home loss. Davis (24.7 ppg) is a rest question for Washington; if he sits, the edge grows. Some books have already steamed to -190; above -190 this drops to a cold line.",
+   "reasoning_zh": "自估66%对市场去水60.8%，错价+5.2点：灰熊客场6胜0负、场均119.9分，对7连败、背靠背第二夜、昨夜主场119-147惨败的奇才。戴维斯（场均24.7分）轮休未定，若轮休价值更大。部分庄已推至-190，-190以上降搏冷。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Memphis Grizzlies",
+    "line": -3.5,
+    "odds": -115,
+    "fair_line": -5.0,
+    "cover_prob": 55,
+    "note_en": "Market -3.5 (-115 consensus) vs our fair -5.0 (derived from the 66% win estimate, normal margin model sd~12): about 1.5 pts of cushion. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场盘灰熊 -3.5（-115共识），我们的公平盘 -5.0（由自估66%胜率换算，正态分差模型sd约12）：约1.5分余量。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
+   }
+  },
+  {
+   "id": "nba-20261116-hou-mia",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Miami Heat",
+   "away_team": "Houston Rockets",
+   "start_time": "2026-11-16T19:30:00",
+   "market": "moneyline",
+   "selection": "Miami Heat",
+   "odds": 120,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Our 51% vs market 43.8% (de-juiced), +7.2 pts edge: rested Miami have won seven of nine at home on a five-game homestand, while Houston are on the second night of a back-to-back without Adams, Capela and Smart, with VanVleet's return undecided. Models disagree (numberFire 56.3% Miami, Statz 64% Houston) - a situational call; VanVleet playing would trim our read to ~49-50%.",
+   "reasoning_zh": "自估51%对市场去水43.8%，错价+7.2点：休整两天的热火主场5连主、近9场7胜，火箭背靠背第二夜且缺亚当斯、卡佩拉、斯马特，范弗利特回归未定。模型分歧大（numberFire给热火56.3%、Statz给火箭64%），属情境单；范弗利特若出战自估约49-50%。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Miami Heat",
+    "line": 2.5,
+    "odds": -110,
+    "fair_line": -0.3,
+    "cover_prob": 59,
+    "note_en": "Market +2.5 (-110 consensus) vs our fair -0.3 (derived from the 51% win estimate, normal margin model sd~12): about 2.8 pts of cushion on the Heat side. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场盘热火 +2.5（-110共识），我们的公平盘 -0.3（由自估51%胜率换算，正态分差模型sd约12）：热火这边约2.8分余量。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
+   }
+  },
+  {
+   "id": "nhl-20261116-van-uta",
+   "sport": "nhl",
+   "league": "nhl",
+   "home_team": "Utah Mammoth",
+   "away_team": "Vancouver Canucks",
+   "start_time": "2026-11-16T21:30:00",
+   "market": "moneyline",
+   "selection": "Utah Mammoth",
+   "odds": -340,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Conditional - counts only if Logan Cooley plays, otherwise void. Our 80% (Cooley in) vs market 74.1% (de-juiced), +5.9 pts edge: rested Utah host a Vancouver side on the second night of a back-to-back with Lankinen (.808) expected in net; the Canucks are 4-17-1. If Cooley sits, our read is ~77% and the edge is ~+2.9 - void. Final sweep checks Cooley and both goalies.",
+   "reasoning_zh": "条件单：库利确认出战才成立，缺阵则作废。自估80%（库利出战时）对市场去水74.1%，错价+5.9点：休整两天的猛犸主场打背靠背第二夜、预计兰基宁（.808）首发的加人（4胜17负1联盟垫底）。库利若缺阵自估约77%、错价仅+2.9点，作废。终扫核库利+双门将。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Utah Mammoth",
+    "line": -1.5,
+    "odds": -140,
+    "fair_line": null,
+    "cover_prob": 42,
+    "note_en": "Market puck line -1.5 (-140 consensus) vs our cover estimate 42% (derived from the 80% win estimate: ~53% of wins come by 2+ goals including empty-netters, so 0.80 x 0.53). Condition inherited from the moneyline pick: counts only if Cooley plays. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘猛犸 -1.5（-140共识），我们的过盘概率估42%（由自估80%胜率换算：约53%的胜场赢2球以上，含空门球，0.80×0.53）。条件与独赢单相同：库利出战才成立。让分数据单独跟踪，不计入独赢战绩。",
     "status": "pending"
    }
   }
@@ -735,7 +816,7 @@
  "record": {
   "asOf": "2026-11-15",
   "wins": 53,
-  "losses": 43,
+  "losses": 44,
   "pushes": 0,
   "halfWins": 1,
   "roiPercent": null
