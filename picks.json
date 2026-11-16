@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-15T09:15:52-05:00",
+ "generatedAt": "2026-11-15T19:14:00-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -689,8 +689,8 @@
    "odds": -155,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 63% vs market 58.3% (de-juiced), +4.7 pts edge - a thin call: Edmonton are 8-0-1 on the road with McDavid at 50 points and Draisaitl at 18 goals, visiting a Philadelphia side scoring a league-worst 2.24 goals a game with Vladar at .879 in net; Jarry is hot (.942 over the last 7 days). Both teams are on the second night of a back-to-back and the Flyers took Edmonton to overtime on Thursday, so a 62% read would cut the edge to +3.7, below the line. Final sweep checks Jarry/Vladar starters (Woll in for Vladar drops this to a cold line).",
-   "reasoning_zh": "自估63%对市场去水58.3%，错价+4.7点（擦线过线，偏软）：油人客场8胜0负1，麦克戴维50分、德莱赛特尔18球，客场打场均仅2.24球、联盟垫底的飞人，弗拉达尔仅.879；贾里近7天.942状态火热。两队同为背靠背第二夜、飞人周四仅输加时，自估若下修至62%错价剩+3.7点（跌破线）。终扫核贾里/弗拉达尔首发（沃尔顶替弗拉达尔则降搏冷）。",
+   "reasoning_en": "Our 63% vs market 58.3% (de-juiced), +4.7 pts edge - a thin call: Edmonton are 8-0-1 on the road with McDavid at 50 points and Draisaitl at 18 goals, visiting a Philadelphia side scoring a league-worst 2.24 goals a game with Vladar at .879 in net; Jarry is hot (.942 over the last 7 days). Both teams are on the second night of a back-to-back and the Flyers took Edmonton to overtime on Thursday, so a 62% read would cut the edge to +3.7, below the line. Final sweep checks Jarry/Vladar starters (Woll in for Vladar drops this to a cold line). [Line watch 2026-11-15 19:14 EST FINAL SWEEP: moneyline consensus ~-147/-148 (Action Network/SportsKeeda -148, Sportsgambler -147, WP Hockey Predictor -140 at Caesars) vs -155 published - an 8-pt drift, below the 20-pt threshold; puck line -1.5 (+164) vs +160 published, a 4-pt drift, below the 30-pt threshold. Market de-juiced now ~57.2% vs our 63% - edge ~+5.8 pts, still above the 4-pt A-grade line. Starters: Dan Vladar CONFIRMED for Philadelphia (Woll is the backup - no downgrade); Tristan Jarry expected for Edmonton (Levi started last night) but not yet officially confirmed - official lineups expected ~19:00. No new core injury. Pick stands - execute per the morning board. This is the final sweep for this game.]",
+   "reasoning_zh": "自估63%对市场去水58.3%，错价+4.7点（擦线过线，偏软）：油人客场8胜0负1，麦克戴维50分、德莱赛特尔18球，客场打场均仅2.24球、联盟垫底的飞人，弗拉达尔仅.879；贾里近7天.942状态火热。两队同为背靠背第二夜、飞人周四仅输加时，自估若下修至62%错价剩+3.7点（跌破线）。终扫核贾里/弗拉达尔首发（沃尔顶替弗拉达尔则降搏冷）。【19:14盯盘更正（终扫）：独赢共识约-147/-148（Action Network/SportsKeeda -148、Sportsgambler -147、WP Hockey -140），较早盘-155仅漂移8点、未达20点阈值；让分仍-1.5（+164），较文件内+160漂移4点、未达30点阈值。市场去水现约57.2%，自估63%，错价约+5.8点，仍在4点A级线之上。门将：飞人弗拉达尔确认首发（沃尔替补，无降级）；油人贾里为预计首发（莱维昨夜已首发）但官方尚未确认，官方阵容预计约19:00公布。无新核心伤停。推荐不变，照原单执行。本场终扫完毕。】",
    "status": "pending",
    "score": null,
    "spread": {
@@ -716,8 +716,8 @@
    "odds": -170,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Conditional - counts only if Juuse Saros starts, otherwise void (Annunen starting voids the pick). Our 66% (Saros in net) vs market 60.4% (de-juiced), +5.6 pts edge: Nashville have won seven straight, allowing two goals or fewer in each of their last six, with Saros at .921; San Jose are on the second night of a back-to-back after a shootout win in Utah, with Nedeljkovic at .895. Marchessault is day-to-day for Nashville; a 64% read would cut the edge to +3.6, below the line.",
-   "reasoning_zh": "条件单：萨罗斯确认首发才成立，安努南首发则整单作废。自估66%（萨罗斯首发时）对市场去水60.4%，错价+5.6点：掠夺者7连胜、近6场每场至多丢2球，萨罗斯.921；鲨鱼背靠背第二夜（昨夜犹他点球胜），内德尔科维奇仅.895。马尔切索下身伤存疑；自估若下修至64%错价剩+3.6点（跌破线）。",
+   "reasoning_en": "Conditional - counts only if Juuse Saros starts, otherwise void (Annunen starting voids the pick). Our 66% (Saros in net) vs market 60.4% (de-juiced), +5.6 pts edge: Nashville have won seven straight, allowing two goals or fewer in each of their last six, with Saros at .921; San Jose are on the second night of a back-to-back after a shootout win in Utah, with Nedeljkovic at .895. Marchessault is day-to-day for Nashville; a 64% read would cut the edge to +3.6, below the line. [Line watch 2026-11-15 16:14 EST: Juuse Saros CONFIRMED to start (Predators' game-day post; first goalie off the ice at the optional morning skate) - the condition is met, so the pick is LIVE, not void. Moneyline unchanged at -170 consensus (DraftKings -170, Hard Rock -170, FanDuel -172); puck line still -1.5 (+142). Market de-juiced ~60.4% vs our 66% - edge still ~+5.6 pts, pick stands. Marchessault still day-to-day (lower body), no change; Nedeljkovic expected for San Jose as expected. Final sweep at the 20:14 round.]",
+   "reasoning_zh": "条件单：萨罗斯确认首发才成立，安努南首发则整单作废。自估66%（萨罗斯首发时）对市场去水60.4%，错价+5.6点：掠夺者7连胜、近6场每场至多丢2球，萨罗斯.921；鲨鱼背靠背第二夜（昨夜犹他点球胜），内德尔科维奇仅.895。马尔切索下身伤存疑；自估若下修至64%错价剩+3.6点（跌破线）。【16:14盯盘更正：萨罗斯确认首发（掠夺者官方比赛日动态；晨训首位离场）——条件成立，本单有效、不是作废。独赢共识仍-170（DK -170、Hard Rock -170、FanDuel -172）；让分仍-1.5（+142）。市场去水约60.4%，自估66%，错价仍约+5.6点，推荐不变。马尔切索仍存疑（下身伤）无变化；鲨鱼门将仍为预期的内德尔科维奇。终扫在20:14那轮。】",
    "status": "pending",
    "score": null,
    "spread": {
