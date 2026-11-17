@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-17T09:13:29-05:00",
+ "generatedAt": "2026-11-17T13:20:00-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -800,8 +800,8 @@
    "odds": 100,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Conditional - counts only if Aleksander Barkov is confirmed OUT, otherwise void (if Barkov returns, void). Our 55% (Barkov out) vs market 47.8% (de-juiced), +7.2 pts edge: Edmonton (16-3-3, 9-0-1 on the road, five straight wins) with McDavid at 53 points in 22 games and Draisaitl leading the league with 20 goals, against a Florida side without Barkov and Marchand (both IR) on a three-in-four-nights stretch after an OT loss at Dallas. Goalies are even (Levi .905 vs Markstrom .905). RudeBets calls it a coin flip (50.3%) - a model disagreement; RNH is day-to-day for Edmonton.",
-   "reasoning_zh": "条件单：巴尔科夫确认缺阵才成立，若复出则作废。自估55%（巴尔科夫缺阵时）对市场去水47.8%，错价+7.2点：16胜3负3、客场9胜0负1、5连胜的油人，麦大卫22场53分、德莱赛特尔20球联盟最多，对缺巴尔科夫+马尔尚（均IR）、3天4战、周日加时负达拉斯的黑豹。门将持平（莱维.905对马克斯特伦.905）。RudeBets模型判五五开（油人50.3%），模型分歧大；RNH逐日观察。",
+   "reasoning_en": "Conditional - counts only if Aleksander Barkov is confirmed OUT, otherwise void (if Barkov returns, void). Our 55% (Barkov out) vs market 47.8% (de-juiced), +7.2 pts edge: Edmonton (16-3-3, 9-0-1 on the road, five straight wins) with McDavid at 53 points in 22 games and Draisaitl leading the league with 20 goals, against a Florida side without Barkov and Marchand (both IR) on a three-in-four-nights stretch after an OT loss at Dallas. Goalies are even (Levi .905 vs Markstrom .905). RudeBets calls it a coin flip (50.3%) - a model disagreement; RNH is day-to-day for Edmonton. [Line watch 2026-11-17 13:14 EST: Aleksander Barkov is CONFIRMED OUT (knee, on injured reserve, expected back Nov 27; coach Maurice said Barkov and Marchand will be evaluated by team doctors on Thursday) — the condition is CONFIRMED, so the pick is live, not void. Moneyline consensus ~+100/+105 (DraftKings +105, FanDuel +102) vs +100 published, a 2-5 pt drift, below the 20-pt threshold; puck line still +1.5 (-245). Market de-juiced now ~47.4% vs our 55% — edge ~+7.6 pts, still above the 4-pt A-grade line. Pick stands. Goalies confirmed: Devon Levi for Edmonton and Jacob Markstrom for Florida. Ryan Nugent-Hopkins remains questionable/day-to-day (NHL.com status report), not confirmed out — watch at the final sweep.]",
+   "reasoning_zh": "条件单：巴尔科夫确认缺阵才成立，若复出则作废。自估55%（巴尔科夫缺阵时）对市场去水47.8%，错价+7.2点：16胜3负3、客场9胜0负1、5连胜的油人，麦大卫22场53分、德莱赛特尔20球联盟最多，对缺巴尔科夫+马尔尚（均IR）、3天4战、周日加时负达拉斯的黑豹。门将持平（莱维.905对马克斯特伦.905）。RudeBets模型判五五开（油人50.3%），模型分歧大；RNH逐日观察。【13:14盯盘更正：巴尔科夫（膝盖）确认缺阵——在伤病名单、预计11月27日复出，主帅莫里斯称他与马尔尚周四才接受队医评估，今晚肯定不出战——条件成立，本单有效、不作废。独赢共识约+100/+105（DraftKings +105、FanDuel +102），较早盘+100仅漂移2-5点、未达20点阈值；让分仍+1.5（-245）未动。市场去水现约47.4%，自估55%，错价约+7.6点，仍在4点A级线之上，推荐不变。门将已确认：油人莱维、黑豹马克斯特伦双双首发。努金特-霍普金斯仍列存疑/逐日观察（NHL官网伤病报告），未确认缺阵，终扫时再看。】",
    "status": "pending",
    "score": null,
    "spread": {
