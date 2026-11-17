@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-16T19:17:00-05:00",
+ "generatedAt": "2026-11-16T22:58:30-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -120,57 +120,6 @@
    "reasoning_zh": "灰熊主场6战全胜，对中锋真空的鹈鹕；加时134-135一分惜败，-225的薄容错应验。",
    "status": "lost",
    "score": "134-135"
-  },
-  {
-   "id": "soc-20261101-nap-juv-seriea",
-   "sport": "soccer",
-   "league": "serie-a",
-   "home_team": "Juventus",
-   "away_team": "Napoli",
-   "start_time": "2026-11-01T14:45:00",
-   "market": "moneyline",
-   "selection": "Napoli",
-   "odds": 230,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Napoli's attack (3+ goals in five of six) against a Juventus side with 11 goals in nine games and a long injury list. Lost 0-2 after a second-half red card.",
-   "reasoning_zh": "那不勒斯近6场5场进3球以上，对9场仅11球且伤停成串的尤文；下半场红牌后0-2告负。",
-   "status": "lost",
-   "score": "2-0"
-  },
-  {
-   "id": "nhl-20261101-wpg-car",
-   "sport": "nhl",
-   "league": "nhl",
-   "home_team": "Carolina Hurricanes",
-   "away_team": "Winnipeg Jets",
-   "start_time": "2026-11-01T13:00:00",
-   "market": "moneyline",
-   "selection": "Carolina Hurricanes",
-   "odds": -280,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "League-leading Carolina against a Jets team winless in eight that had just traded its No. 1 goalie. Kochetkov posted the shutout, 7-0.",
-   "reasoning_zh": "联盟领跑的飓风对8场不胜、刚交易走头号门将的喷气机；科切特科夫零封，终场7-0。",
-   "status": "won",
-   "score": "7-0"
-  },
-  {
-   "id": "nhl-20261101-uta-phi",
-   "sport": "nhl",
-   "league": "nhl",
-   "home_team": "Philadelphia Flyers",
-   "away_team": "Utah Mammoth",
-   "start_time": "2026-11-01T16:00:00",
-   "market": "moneyline",
-   "selection": "Utah Mammoth",
-   "odds": -162,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Utah (9-5) against a 3-8-4 Flyers team missing three regulars - but two of them returned at game time, and Utah fell 3-6.",
-   "reasoning_zh": "猛犸9-5对3-8-4且缺三名主力的飞人；但飞人两人临场复出，猛犸3-6告负。",
-   "status": "lost",
-   "score": "6-3"
   },
   {
    "id": "soc-20261104-brugge-psv-ucl",
@@ -743,10 +692,10 @@
    "odds": -170,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 66% vs market 60.8% (de-juiced), +5.2 pts edge: Memphis are 6-0 on the road, scoring 119.9 per game, against a Washington side on a seven-game losing streak playing the second night of a back-to-back after a 147-119 home loss. Davis (24.7 ppg) is a rest question for Washington; if he sits, the edge grows. Some books have already steamed to -190; above -190 this drops to a cold line. [Line watch 2026-11-16 18:36 EST FINAL SWEEP: moneyline consensus ~-162 (DraftKings -161, BetMGM -160, FanDuel -162, Action -162, Hard Rock -160) vs -170 published — an 8-pt drift toward a longer price, below the 20-pt threshold; spread still -3.5 (-110) consensus, unchanged. Market de-juiced now ~59.3% vs our 66% — edge ~+6.7 pts, still above the 4-pt A-grade line. Starters: official confirmed fives not yet released (0 of 8 games confirmed as of 17:53 ET); NBA.com expected five has Anthony Davis starting — no rest tonight, the board's open rest question resolves in our favour. Tre Johnson (back) questionable and Bilal Coulibaly now OUT for Washington — both absences help Memphis. Grizzlies' absences unchanged (Jerome, Pippen Jr., GG Jackson out; Stewart out ill; Edey/Post questionable — rotation level, priced in). Pick STANDS — execute per the morning board. This is the final sweep for this game.]",
+   "reasoning_en": "Our 66% vs market 60.8% (de-juiced), +5.2 pts edge: Memphis are 6-0 on the road, scoring 119.9 per game, against a Washington side on a seven-game losing streak playing the second night of a back-to-back after a 147-119 home loss. Davis (24.7 ppg) is a rest question for Washington; if he sits, the edge grows. Some books have already steamed to -190; above -190 this drops to a cold line. [Line watch 2026-11-16 18:36 EST FINAL SWEEP: moneyline consensus ~-162 (DraftKings -161, BetMGM -160, FanDuel -162, Action -162, Hard Rock -160) vs -170 published — an 8-pt drift toward a longer price, below the 20-pt threshold; spread still -3.5 (-110) consensus, unchanged. Market de-juiced now ~59.3% vs our 66% — edge ~+6.7 pts, still above the 4-pt A-grade line. Starters: official confirmed fives not yet released (0 of 8 games confirmed as of 17:53 ET); NBA.com expected five has Anthony Davis starting — no rest tonight, the board's open rest question resolves in our favour. Tre Johnson (back) questionable and Bilal Coulibaly now OUT for Washington — both absences help Memphis. Grizzlies' absences unchanged (Jerome, Pippen Jr., GG Jackson out; Stewart out ill; Edey/Post questionable — rotation level, priced in). Pick STANDS — execute per the morning board. This is the final sweep for this game.] [Settled 2026-11-16 23:00 EST: won 136-120 at Washington; Boozer scored a career-high 29 (7 threes), Edey 23/10; Memphis trailed by 12 at halftime, then outscored Washington 42-18 in the third. Spread -3.5 covered.]",
    "reasoning_zh": "自估66%对市场去水60.8%，错价+5.2点：灰熊客场6胜0负、场均119.9分，对7连败、背靠背第二夜、昨夜主场119-147惨败的奇才。戴维斯（场均24.7分）轮休未定，若轮休价值更大。部分庄已推至-190，-190以上降搏冷。【18:36盯盘更正（终扫）：独赢共识约-162（DraftKings -161、BetMGM -160、FanDuel -162、Action -162、Hard Rock -160），较早盘-170仅漂移8点且方向利好、未达20点阈值；让分仍-3.5（-110）共识未动。市场去水现约59.3%，自估66%，错价约+6.7点，仍在4点A级线之上。首发：官方确认名单尚未公布（截至17:53，8场比赛均未确认）；NBA官网预计首发中戴维斯在列——今晚不轮休，早盘悬念落定、利好我们。奇才特雷·约翰逊（背）出战成疑、库利巴利新增缺阵，两人缺阵均利好灰熊。灰熊缺阵未变（杰罗姆、皮蓬 Jr、GG·杰克逊缺阵；斯图尔特因病缺阵；伊迪/波斯特存疑——轮换层级，早盘已计入）。推荐不变，照原单执行。本场终扫完毕。】",
-   "status": "pending",
-   "score": null,
+   "status": "won",
+   "score": "120-136",
    "spread": {
     "selection": "Memphis Grizzlies",
     "line": -3.5,
@@ -755,7 +704,7 @@
     "cover_prob": 55,
     "note_en": "Market -3.5 (-115 consensus) vs our fair -5.0 (derived from the 66% win estimate, normal margin model sd~12): about 1.5 pts of cushion. Spread data - tracked separately from the moneyline record.",
     "note_zh": "市场盘灰熊 -3.5（-115共识），我们的公平盘 -5.0（由自估66%胜率换算，正态分差模型sd约12）：约1.5分余量。让分数据单独跟踪，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   },
   {
@@ -770,10 +719,10 @@
    "odds": 120,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 51% vs market 43.8% (de-juiced), +7.2 pts edge: rested Miami have won seven of nine at home on a five-game homestand, while Houston are on the second night of a back-to-back without Adams, Capela and Smart, with VanVleet's return undecided. Models disagree (numberFire 56.3% Miami, Statz 64% Houston) - a situational call; VanVleet playing would trim our read to ~49-50%. [Line watch 2026-11-16 17:17 EST: Fred VanVleet is OFF the injury report and WILL play tonight (Rotoworld/NBC Sports; final injury report 15:30 ET) — the board's key open question, resolved against us. Per the board's own read, VanVleet playing trims our read to ~49-50%; market de-juiced now ~44.2% — edge now ~+5 to +6 pts, still above the 4-pt A-grade line. Pick stands. Steven Adams is OUT tonight (leg management, played Sunday) as the board expected; Capela out, Smart suspended as expected. NEW: Amen Thompson (knee) is questionable — would help Miami if he sits; Pelle Larsson (illness) is doubtful for Miami. Moneyline consensus ~+120 (DraftKings +124, Action +116), unchanged from +120 published; spread still +2.5 (-105).] [Line watch 2026-11-16 19:16 EST FINAL SWEEP: moneyline consensus ~+117 (DraftKings +124, BetMGM +120, Action +116, FanDuel +114) vs +120 published — a 3-pt drift, below the 20-pt threshold; spread still +2.5 (-105 to -118) consensus, unchanged (BetMGM alone at +3.5, an outlier, not the consensus). Market de-juiced now ~44.6% vs our ~49-50% — edge ~+4.5 to +5.5 pts, still above the 4-pt A-grade line. NEW: Amen Thompson (knee) is RULED OUT (FantasyPros/Rotoworld, ~18:53 EST) — the 17:17 watch item resolves in our favour; Rockets starters confirmed as VanVleet, Eason (in for Thompson), Durant, Jabari Smith Jr. and Sengun. Pelle Larsson (illness) still doubtful for Miami; Klay Thompson available; Giannis off the injury report. Heat official starting five not yet released (projected: Mitchell, Klay Thompson, Gardner, Giannis, Adebayo). Pick STANDS — execute per the morning board. This is the final sweep for this game.]",
+   "reasoning_en": "Our 51% vs market 43.8% (de-juiced), +7.2 pts edge: rested Miami have won seven of nine at home on a five-game homestand, while Houston are on the second night of a back-to-back without Adams, Capela and Smart, with VanVleet's return undecided. Models disagree (numberFire 56.3% Miami, Statz 64% Houston) - a situational call; VanVleet playing would trim our read to ~49-50%. [Line watch 2026-11-16 17:17 EST: Fred VanVleet is OFF the injury report and WILL play tonight (Rotoworld/NBC Sports; final injury report 15:30 ET) — the board's key open question, resolved against us. Per the board's own read, VanVleet playing trims our read to ~49-50%; market de-juiced now ~44.2% — edge now ~+5 to +6 pts, still above the 4-pt A-grade line. Pick stands. Steven Adams is OUT tonight (leg management, played Sunday) as the board expected; Capela out, Smart suspended as expected. NEW: Amen Thompson (knee) is questionable — would help Miami if he sits; Pelle Larsson (illness) is doubtful for Miami. Moneyline consensus ~+120 (DraftKings +124, Action +116), unchanged from +120 published; spread still +2.5 (-105).] [Line watch 2026-11-16 19:16 EST FINAL SWEEP: moneyline consensus ~+117 (DraftKings +124, BetMGM +120, Action +116, FanDuel +114) vs +120 published — a 3-pt drift, below the 20-pt threshold; spread still +2.5 (-105 to -118) consensus, unchanged (BetMGM alone at +3.5, an outlier, not the consensus). Market de-juiced now ~44.6% vs our ~49-50% — edge ~+4.5 to +5.5 pts, still above the 4-pt A-grade line. NEW: Amen Thompson (knee) is RULED OUT (FantasyPros/Rotoworld, ~18:53 EST) — the 17:17 watch item resolves in our favour; Rockets starters confirmed as VanVleet, Eason (in for Thompson), Durant, Jabari Smith Jr. and Sengun. Pelle Larsson (illness) still doubtful for Miami; Klay Thompson available; Giannis off the injury report. Heat official starting five not yet released (projected: Mitchell, Klay Thompson, Gardner, Giannis, Adebayo). Pick STANDS — execute per the morning board. This is the final sweep for this game.] [Settled 2026-11-16 23:00 EST: won 128-110 vs Houston; Giannis 20/13, Klay Thompson 17; Miami never trailed and led 29-15 after the first quarter for a fifth straight win. Spread +2.5 covered.]",
    "reasoning_zh": "自估51%对市场去水43.8%，错价+7.2点：休整两天的热火主场5连主、近9场7胜，火箭背靠背第二夜且缺亚当斯、卡佩拉、斯马特，范弗利特回归未定。模型分歧大（numberFire给热火56.3%、Statz给火箭64%），属情境单；范弗利特若出战自估约49-50%。【17:17盯盘更正：范弗利特已从伤病名单移除、今晚确认出战（Rotoworld/NBC Sports；15:30最终伤病报告）——早盘关键悬念落定、对我们不利。按早盘口径，范弗利特出战自估下修至约49-50%，市场去水现约44.2%，错价约+5至+6点，仍在4点A级线之上，推荐不变。亚当斯今晚轮休（腿部管理，周日打过）与早盘预期一致；卡佩拉缺阵、斯马特停赛亦如预期。新情况：阿门·汤普森（膝盖）出战成疑，若缺阵对热火利好；热火拉尔森（生病）出战成疑。独赢共识约+120（DraftKings +124、Action +116），与早盘+120持平；让分仍+2.5（-105）。】【19:16盯盘更正（终扫）：独赢共识约+117（DraftKings +124、BetMGM +120、Action +116、FanDuel +114），较早盘+120仅漂移3点、未达20点阈值；让分仍+2.5（-105至-118）共识未动（BetMGM一家开+3.5，属离群值、非共识）。市场去水现约44.6%，自估50约49-50%，错价约+4.5至+5.5点，仍在4点A级线之上。新情况：阿门·汤普森（膝盖）确认缺阵（FantasyPros/Rotoworld，约18:53）——17:17的悬念落定、对我们利好；火箭首发已确认：范弗利特、伊森（顶替汤普森）、杜兰特、贾巴里·史密斯、申京。热火拉尔森（生病）仍存疑；克莱·汤普森可出战；字母哥已不在伤病名单。热火官方首发名单尚未公布（预计：米切尔、克莱·汤普森、加德纳、字母哥、阿德巴约）。推荐不变，照原单执行。本场终扫完毕。】",
-   "status": "pending",
-   "score": null,
+   "status": "won",
+   "score": "128-110",
    "spread": {
     "selection": "Miami Heat",
     "line": 2.5,
@@ -782,13 +731,13 @@
     "cover_prob": 59,
     "note_en": "Market +2.5 (-110 consensus) vs our fair -0.3 (derived from the 51% win estimate, normal margin model sd~12): about 2.8 pts of cushion on the Heat side. Spread data - tracked separately from the moneyline record.",
     "note_zh": "市场盘热火 +2.5（-110共识），我们的公平盘 -0.3（由自估51%胜率换算，正态分差模型sd约12）：热火这边约2.8分余量。让分数据单独跟踪，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   }
  ],
  "record": {
-  "asOf": "2026-11-15",
-  "wins": 53,
+  "asOf": "2026-11-16",
+  "wins": 55,
   "losses": 44,
   "pushes": 0,
   "halfWins": 1,
