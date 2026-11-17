@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-17T15:14:00-05:00",
+ "generatedAt": "2026-11-17T16:18:00-05:00",
  "picks": [
   {
    "id": "soc-20261103-bodo-lille-ucl",
@@ -746,8 +746,8 @@
    "odds": -155,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 64% vs market 58.3% (de-juiced), +5.7 pts edge: Boston (13-6-1, 8-3-0 at home) host a Kings side on a four-game losing streak without top scorer Panarin (personal), with Kuemper (.872, -8.1 GSAx, .800/.778 in his last two starts) in net. Boston lost two straight allowing 11 goals, and Swayman (.871 last five) is not yet confirmed - DiPietro (2.18 GAA) is a capable backup. Final sweep confirms Swayman.",
-   "reasoning_zh": "自估64%对市场去水58.3%，错价+5.7点：13胜6负1、主场8胜3负的棕熊对四连败、缺头号得分手帕纳林的国王，门将库珀.872（-8.1 GSAx，近两场.800/.778）。棕熊刚连丢11球、斯韦曼近5场.871且尚未官宣，替补迪皮耶特罗（2.18 GAA）可兜底。终扫核斯韦曼首发。",
+   "reasoning_en": "Our 64% vs market 58.3% (de-juiced), +5.7 pts edge: Boston (13-6-1, 8-3-0 at home) host a Kings side on a four-game losing streak without top scorer Panarin (personal), with Kuemper (.872, -8.1 GSAx, .800/.778 in his last two starts) in net. Boston lost two straight allowing 11 goals, and Swayman (.871 last five) is not yet confirmed - DiPietro (2.18 GAA) is a capable backup. Final sweep confirms Swayman. [Line watch 2026-11-17 16:14 EST: Michael DiPietro is CONFIRMED to start (coach Marco Sturm announced this morning) — NOT Swayman. DiPietro (.925, 2.17 GAA, 4-1-0) is the better goalie this season vs Swayman (.906, .871 last five), so the pick stands and is strengthened. Moneyline consensus ~-155 (DraftKings -162, Pick Dawgz -155), essentially unchanged from -155 published; puck line -1.5 (~+160) vs +164 in the feed, a 4-pt drift, below the 30-pt threshold. Kuemper expected for Los Angeles. Final sweep at the 18:14 round.]",
+   "reasoning_zh": "自估64%对市场去水58.3%，错价+5.7点：13胜6负1、主场8胜3负的棕熊对四连败、缺头号得分手帕纳林的国王，门将库珀.872（-8.1 GSAx，近两场.800/.778）。棕熊刚连丢11球、斯韦曼近5场.871且尚未官宣，替补迪皮耶特罗（2.18 GAA）可兜底。终扫核斯韦曼首发。【16:14盯盘更正：迪皮耶特罗确认首发（主帅斯特姆今晨宣布），不是斯韦曼。迪皮耶特罗本季.925、2.17 GAA、4胜1负，优于斯韦曼（.906、近5场.871），推荐不变且利好更大。独赢共识约-155（DraftKings -162、Pick Dawgz -155），与早盘-155基本持平；让分-1.5（约+160），较文件内+164漂移约4点、未达30点阈值。国王门将预计为库珀。终扫在18:14那轮。】",
    "status": "pending",
    "score": null,
    "spread": {
@@ -773,8 +773,8 @@
    "odds": -130,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Conditional - counts only if Linus Ullmark starts, otherwise void. Our 60% (Ullmark in) vs market 54.3% (de-juiced), +5.7 pts edge: Ullmark (.939, +10.3 GSAx, 9-1-0, 1.47 GAA) against a Jets crease of Skinner (.880) or Daws (.892); Ottawa are 13-6-2 and 70% in points over their last ten. If Ersson (.880) starts instead, our read is ~50% - void. Winnipeg are on a six-game win streak, so the goalie gap is the whole call.",
-   "reasoning_zh": "条件单：乌尔马克确认首发才成立，否则作废。自估60%（乌尔马克出战时）对市场去水54.3%，错价+5.7点：乌尔马克.939（+10.3 GSAx，9胜1负、1.47 GAA）对斯金纳.880或道斯.892的喷气机门将；参议员13胜6负2、近10场积分率70%。若埃尔松（.880）首发自估约50%，作废。喷气机6连胜手感正热，门将差距是全部逻辑。",
+   "reasoning_en": "Conditional - counts only if Linus Ullmark starts, otherwise void. Our 60% (Ullmark in) vs market 54.3% (de-juiced), +5.7 pts edge: Ullmark (.939, +10.3 GSAx, 9-1-0, 1.47 GAA) against a Jets crease of Skinner (.880) or Daws (.892); Ottawa are 13-6-2 and 70% in points over their last ten. If Ersson (.880) starts instead, our read is ~50% - void. Winnipeg are on a six-game win streak, so the goalie gap is the whole call. [Line watch 2026-11-17 16:14 EST: Linus Ullmark is CONFIRMED to start — the condition is CONFIRMED, so the pick is live, not void. Stuart Skinner confirmed for Winnipeg. Moneyline consensus ~-130 (DraftKings -130, TheSpread -135) vs -130 published, essentially unchanged; puck line still -1.5 (+195). Market de-juiced now ~54.3% vs our 60% — edge ~+5.7 pts, still above the 4-pt A-grade line. Pick stands. Final sweep at the 18:14 round.]",
+   "reasoning_zh": "条件单：乌尔马克确认首发才成立，否则作废。自估60%（乌尔马克出战时）对市场去水54.3%，错价+5.7点：乌尔马克.939（+10.3 GSAx，9胜1负、1.47 GAA）对斯金纳.880或道斯.892的喷气机门将；参议员13胜6负2、近10场积分率70%。若埃尔松（.880）首发自估约50%，作废。喷气机6连胜手感正热，门将差距是全部逻辑。【16:14盯盘更正：乌尔马克确认首发，条件成立，本单有效、不作废。喷气机门将斯金纳亦确认首发。独赢共识约-130（DraftKings -130、TheSpread -135），与早盘-130基本持平；让分仍-1.5（+195）未动。市场去水现约54.3%，自估60%，错价约+5.7点，仍在4点A级线之上，推荐不变。终扫在18:14那轮。】",
    "status": "pending",
    "score": null,
    "spread": {
@@ -827,18 +827,18 @@
    "odds": -135,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Our 62% vs market 55.4% (de-juiced), +6.6 pts edge: Minnesota own the league's best net rating (+10.6, eFG% 55.2% 6th) and beat Portland 106-98 in the same building last night; the Blazers are without Morant (hamstring) and Sharpe (torn meniscus, 20.8 ppg), while Minnesota's depth already proved it can win without Edwards (Shannon's career-high 34 off the bench). numberFire has Minnesota at 70.26% vs the market's ~55%. Risks: Shannon's 34 was a career night (regression), Kuminga is day-to-day (shoulder, left Monday's game), and both teams are on the second night of a back-to-back in a rematch. [Line watch 2026-11-17 15:14 EST: Jonathan Kuminga is now CONFIRMED OUT tonight (right shoulder contusion; Timberwolves announced Nov 17, ESPN injury report) - the board's day-to-day question resolves against us; Terrence Shannon is expected to start in his place. Our read slips ~1.5 pts to ~60.5% vs market de-juiced ~55.5% - edge now ~+5.0 pts, still above the 4-pt A-grade line. Pick stands. Moneyline consensus ~-135/-137 (vs -135 published), essentially unchanged; spread still -2.5 (-110). Final sweep at the 19:14 round.]",
-   "reasoning_zh": "自估62%对市场去水55.4%，错价+6.6点：净效率联盟第1（+10.6，eFG% 55.2%第6）的森林狼昨夜同一场地106-98赢过开拓者；开拓者缺莫兰特（腿筋）+夏普（半月板撕裂、场均20.8分），森林狼轮换深度已证明无爱德华兹也能赢球（香农替补生涯新高34分）。numberFire给森林狼70.26%、市场仅55.4%。风险：香农34分为生涯新高有回归风险；库明加逐日观察（肩膀）；两队同为背靠背第二夜的二番战。【15:14盯盘更正：库明加（右肩挫伤）今晚确认缺阵（森林狼官方宣布，ESPN伤病报告同步）——早盘逐日观察的悬念落定、对我们不利；香农预计顶上首发。自估下修约1.5点至约60.5%，市场去水约55.5%，错价约+5.0点，仍在4点A级线之上，推荐不变。独赢共识约-135/-137（早盘-135），基本未动；让分仍-2.5（-110）。终扫在19:14那轮。】",
+   "reasoning_en": "Our 62% vs market 55.4% (de-juiced), +6.6 pts edge: Minnesota own the league's best net rating (+10.6, eFG% 55.2% 6th) and beat Portland 106-98 in the same building last night; the Blazers are without Morant (hamstring) and Sharpe (torn meniscus, 20.8 ppg), while Minnesota's depth already proved it can win without Edwards (Shannon's career-high 34 off the bench). numberFire has Minnesota at 70.26% vs the market's ~55%. Risks: Shannon's 34 was a career night (regression), Kuminga is day-to-day (shoulder, left Monday's game), and both teams are on the second night of a back-to-back in a rematch. [Line watch 2026-11-17 15:14 EST: Jonathan Kuminga is now CONFIRMED OUT tonight (right shoulder contusion; Timberwolves announced Nov 17, ESPN injury report) - the board's day-to-day question resolves against us; Terrence Shannon is expected to start in his place. Our read slips ~1.5 pts to ~60.5% vs market de-juiced ~55.5% - edge now ~+5.0 pts, still above the 4-pt A-grade line. Pick stands. Moneyline consensus ~-135/-137 (vs -135 published), essentially unchanged; spread still -2.5 (-110). Final sweep at the 19:14 round.] [Line watch 2026-11-17 16:14 EST: spread moved -2.5 (-110) -> -3.5 (-106) (consensus; DraftKings/Hard Rock/FanDuel all -3.5) — a full 1.0-pt move. Moneyline consensus ~-147 (DraftKings -146, Hard Rock -150, FanDuel -146) vs -135 published, a 12-pt drift, below the 20-pt threshold. Market de-juiced now ~57.2% vs our ~60.5% (post-Kuminga read) — edge now ~+3.3 pts, below the 4-pt A-grade line, and the spread cushion is gone (market -3.5 vs our fair ~-3.4). Value thin at this price — recommend abandoning, pending user's call. New watch item: Deni Avdija (Portland's top scorer, 24.2 ppg) is questionable/day-to-day with a sore left foot — if he sits, our read rises; final call at the 19:14 sweep.]",
+   "reasoning_zh": "自估62%对市场去水55.4%，错价+6.6点：净效率联盟第1（+10.6，eFG% 55.2%第6）的森林狼昨夜同一场地106-98赢过开拓者；开拓者缺莫兰特（腿筋）+夏普（半月板撕裂、场均20.8分），森林狼轮换深度已证明无爱德华兹也能赢球（香农替补生涯新高34分）。numberFire给森林狼70.26%、市场仅55.4%。风险：香农34分为生涯新高有回归风险；库明加逐日观察（肩膀）；两队同为背靠背第二夜的二番战。【15:14盯盘更正：库明加（右肩挫伤）今晚确认缺阵（森林狼官方宣布，ESPN伤病报告同步）——早盘逐日观察的悬念落定、对我们不利；香农预计顶上首发。自估下修约1.5点至约60.5%，市场去水约55.5%，错价约+5.0点，仍在4点A级线之上，推荐不变。独赢共识约-135/-137（早盘-135），基本未动；让分仍-2.5（-110）。终扫在19:14那轮。】【16:14盯盘更正：让分 -2.5（-110）→ -3.5（-106）（共识；DraftKings/Hard Rock/FanDuel均为-3.5），整整移动1.0分。独赢共识约-147（DraftKings -146、Hard Rock -150、FanDuel -146），较早盘-135漂移12点、未达20点阈值。市场去水现约57.2%，自估约60.5%（库明加缺阵后），错价约+3.3点，跌破4点A级线；让分余量也没了（市场-3.5对我们的公允约-3.4）。当前价价值已薄，建议放弃，等用户定夺。新关注点：开拓者头号得分手阿夫迪亚（场均24.2分）左脚酸痛、列为存疑/逐日观察，若其缺阵自估将上修，19:14终扫时再定。】",
    "status": "pending",
    "score": null,
    "spread": {
     "selection": "Minnesota Timberwolves",
-    "line": -2.5,
-    "odds": -110,
+    "line": -3.5,
+    "odds": -106,
     "fair_line": -3.7,
     "cover_prob": 54,
-    "note_en": "Market -2.5 (-110 consensus) vs our fair -3.7 (derived from the 62% win estimate, normal margin model sd~12): about 1.2 pts of cushion. Spread data - tracked separately from the moneyline record.",
-    "note_zh": "市场盘森林狼 -2.5（-110共识），我们的公平盘 -3.7（由自估62%胜率换算，正态分差模型sd约12）：约1.2分余量。让分数据单独跟踪，不计入独赢战绩。",
+    "note_en": "Market -2.5 (-110 consensus) vs our fair -3.7 (derived from the 62% win estimate, normal margin model sd~12): about 1.2 pts of cushion. Spread data - tracked separately from the moneyline record. [Line watch 2026-11-17 16:14 EST: spread moved -2.5 (-110) -> -3.5 (-106); market line now ~at our fair line (~-3.4 on the post-Kuminga ~60.5% read), cushion gone.]",
+    "note_zh": "市场盘森林狼 -2.5（-110共识），我们的公平盘 -3.7（由自估62%胜率换算，正态分差模型sd约12）：约1.2分余量。让分数据单独跟踪，不计入独赢战绩。【16:14盯盘更正：让分 -2.5（-110）→ -3.5（-106）；市场盘现约等于我们的公允盘（库明加缺阵后自估约60.5%，公允约-3.4），余量没了。】",
     "status": "pending"
    }
   }
