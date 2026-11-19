@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-18T22:57:02-05:00",
+ "generatedAt": "2026-11-19T09:16:42-05:00",
  "picks": [
   {
    "id": "soc-20261104-brugge-psv-ucl",
@@ -721,6 +721,33 @@
     "note_en": "Market -2.5 (-110 consensus) vs our fair -3.7 (derived from the 62% win estimate, normal margin model sd~12): about 1.2 pts of cushion. Spread data - tracked separately from the moneyline record. [Line watch 2026-11-17 16:14 EST: spread moved -2.5 (-110) -> -3.5 (-106); market line now ~at our fair line (~-3.4 on the post-Kuminga ~60.5% read), cushion gone.]",
     "note_zh": "市场盘森林狼 -2.5（-110共识），我们的公平盘 -3.7（由自估62%胜率换算，正态分差模型sd约12）：约1.2分余量。让分数据单独跟踪，不计入独赢战绩。【16:14盯盘更正：让分 -2.5（-110）→ -3.5（-106）；市场盘现约等于我们的公允盘（库明加缺阵后自估约60.5%，公允约-3.4），余量没了。】",
     "status": "lost"
+   }
+  },
+  {
+   "id": "nba-20261119-nyk-min",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Minnesota Timberwolves",
+   "away_team": "New York Knicks",
+   "start_time": "2026-11-19T20:00:00",
+   "market": "moneyline",
+   "selection": "Minnesota Timberwolves",
+   "odds": 100,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Our 53% vs market ~48% (de-juiced), +5 pts edge: Minnesota own the league's best net rating (+10.2, defensive rating 104.1 best in the league) and are 7-2 at home; they won two straight over Portland without Edwards (33.3 ppg, knee surgery), with Dosunmu scoring 30 and McDaniels hitting the game-winner. The Knicks (8-6, 4-3 on the road) average only 110.0 points on 44.2% shooting. numberFire has Minnesota at 51.24% vs the market's ~48%. Risks: Edwards is a real loss; Kuminga is day-to-day (shoulder); one model (boxscoreaudit) calls the Knicks 54% - a model disagreement; Brunson (27.0 ppg) and Towns (21.2 ppg, 16 reb) are healthy and on a two-game win streak. Final sweep checks Kuminga.",
+   "reasoning_zh": "自估53%对市场去水约48%，错价约+5点：净效率联盟第1（+10.2，防守效率104.1联盟最佳）的森林狼主场7胜2负；无爱德华兹（33.3分，膝盖手术）仍连赢开拓者两场，多松姆30分、麦克丹尼尔斯绝杀。尼克斯8胜6负、客场4胜3负，场均仅110.0分、命中率44.2%。numberFire给森林狼51.24%、市场仅约48%。风险：爱德华兹缺阵是真实损失；库明加逐日观察（肩膀）；boxscoreaudit模型反指尼克斯54%，模型分歧；布伦森27.0分+唐斯21.2分16板双核健康、刚两连胜。终扫核库明加状态。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Minnesota Timberwolves",
+    "line": 1.5,
+    "odds": -115,
+    "fair_line": -0.9,
+    "cover_prob": 58,
+    "note_en": "Market +1.5 (-115 consensus) vs our fair -0.9 (derived from the 53% win estimate, normal margin model sd~12): about 2.4 pts of cushion. Spread data - tracked separately from the moneyline record.",
+    "note_zh": "市场盘森林狼 +1.5（-115共识），我们的公平盘 -0.9（由自估53%胜率换算，正态分差模型sd约12）：约2.4分余量。让分数据单独跟踪，不计入独赢战绩。",
+    "status": "pending"
    }
   }
  ],
