@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-20T09:08:43-05:00",
+  "generatedAt": "2026-11-20T16:17:11-05:00",
   "picks": [
     {
       "id": "nhl-20261105-bos-pit",
@@ -708,16 +708,16 @@
       "start_time": "2026-11-20T19:00:00",
       "market": "moneyline",
       "selection": "Atlanta Hawks",
-      "odds": -230,
+      "odds": -250,
       "odds_format": "american",
       "confidence": "medium",
-      "reasoning_en": "Hawks net rating +2.5 vs Hornets' league-worst -12.2; Atlanta won the October meeting by 47 at home. Self-estimated 72% vs ~67% market-implied (+5 pts).",
-      "reasoning_zh": "老鹰净效率+2.5对黄蜂联盟最差的-12.2，十月交锋主场赢47分。自估72%对市场去水约67%，错价约+5点。",
+      "reasoning_en": "Hawks net rating +2.5 vs Hornets' league-worst -12.2; Atlanta won the October meeting by 47 at home. Self-estimated 72% vs ~67% market-implied (+5 pts). [Line watch 2026-11-20 16:20 EST: moneyline corrected -230 -> -250 (consensus; FanDuel -255, DraftKings -249, BetMGM -250, Action -245, Gridiron -250); spread moved -6.0 (-110) -> -6.5 (-110). Market de-juiced now ~68.5% vs our 72% — edge now ~+3.5 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Spread still inside our fair line -7.0 (0.5 pt cushion). No new core injury; Hornets' known outs (Schroder, Allen, Knueppel, G. Williams) and Hawks' McCollum out were already priced in at board time.]",
+      "reasoning_zh": "老鹰净效率+2.5对黄蜂联盟最差的-12.2，十月交锋主场赢47分。自估72%对市场去水约67%，错价约+5点。【16:20盯盘更正：独赢赔率 -230 → -250（共识；FanDuel -255、DraftKings -249、BetMGM -250、Action -245、Gridiron -250）；让分 -6.0（-110）→ -6.5（-110）。市场去水现约68.5%，自估72%，错价约+3.5点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。让分仍在公允盘-7.0之内（0.5分余量）。无新核心伤停；黄蜂已知缺阵（施罗德、艾伦、克努佩尔、威廉姆斯）与老鹰麦科勒姆缺阵早盘已计入。】",
       "status": "pending",
       "score": null,
       "spread": {
         "selection": "Atlanta Hawks",
-        "line": -6.0,
+        "line": -6.5,
         "odds": -110,
         "fair_line": -7.0,
         "cover_prob": 53,
