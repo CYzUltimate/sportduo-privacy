@@ -1,41 +1,7 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-20T21:16:00-05:00",
+  "generatedAt": "2026-11-20T22:58:48-05:00",
   "picks": [
-    {
-      "id": "nhl-20261105-bos-pit",
-      "sport": "nhl",
-      "league": "nhl",
-      "home_team": "Pittsburgh Penguins",
-      "away_team": "Boston Bruins",
-      "start_time": "2026-11-05T19:00:00",
-      "market": "moneyline",
-      "selection": "Boston Bruins",
-      "odds": -102,
-      "odds_format": "american",
-      "confidence": "medium",
-      "reasoning_en": "Boston are 11-4-1 with a plus-20 goal difference against a 5-8-2 Pittsburgh side that has won 3 of 10; Swayman (.913) outclasses Silovs (.888). Model 55% vs market 50.0% - a +5.0 pt edge.",
-      "reasoning_zh": "棕熊11胜4负、净胜球+20，企鹅5胜8负、近10场仅3胜；门将斯韦曼.913对西洛夫斯.888；自估55% vs 市场50.0%，错价+5.0点。",
-      "status": "won",
-      "score": "2-6"
-    },
-    {
-      "id": "nhl-20261105-dal-cbj",
-      "sport": "nhl",
-      "league": "nhl",
-      "home_team": "Columbus Blue Jackets",
-      "away_team": "Dallas Stars",
-      "start_time": "2026-11-05T19:00:00",
-      "market": "moneyline",
-      "selection": "Columbus Blue Jackets",
-      "odds": 120,
-      "odds_format": "american",
-      "confidence": "medium",
-      "reasoning_en": "Conditional - counts only if Miro Heiskanen is confirmed out; void if he plays. Columbus are 5-3-0 at home after a 7-2 rout of Colorado, while Dallas may be without their top defenceman. Model 50% vs market 45.0% - a +5.0 pt edge.",
-      "reasoning_zh": "条件单：海斯卡宁确认缺阵才成立，出战则作废。蓝衣主场5胜3负、刚7-2大胜雪崩，星或缺头号后卫；自估50% vs 市场45.0%，错价+5.0点。",
-      "status": "won",
-      "score": "2-1"
-    },
     {
       "id": "nba-20261106-tor-mil",
       "sport": "nba",
@@ -696,8 +662,8 @@
       "confidence": "medium",
       "reasoning_en": "Le Havre are winless in 10 with six straight defeats and a long injury list; Troyes host the bottom side. Self-estimated 50% vs ~43% market-implied (+7 pts).",
       "reasoning_zh": "勒阿弗尔十场不胜、六连败、伤病满营，特鲁瓦主场迎战垫底队。自估50%对市场去水约43%，错价约+7点。",
-      "status": "pending",
-      "score": null
+      "status": "won",
+      "score": "3-1"
     },
     {
       "id": "nba-20261120-cha-atl",
@@ -713,8 +679,8 @@
       "confidence": "medium",
       "reasoning_en": "Hawks net rating +2.5 vs Hornets' league-worst -12.2; Atlanta won the October meeting by 47 at home. Self-estimated 72% vs ~67% market-implied (+5 pts). [Line watch 2026-11-20 16:20 EST: moneyline corrected -230 -> -250 (consensus; FanDuel -255, DraftKings -249, BetMGM -250, Action -245, Gridiron -250); spread moved -6.0 (-110) -> -6.5 (-110). Market de-juiced now ~68.5% vs our 72% — edge now ~+3.5 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Spread still inside our fair line -7.0 (0.5 pt cushion). No new core injury; Hornets' known outs (Schroder, Allen, Knueppel, G. Williams) and Hawks' McCollum out were already priced in at board time.] [Line watch 2026-11-20 18:14 EST FINAL SWEEP: moneyline consensus ~-245/-250 (FanDuel -255, DraftKings -249, BetMGM -250, Action -245, Gridiron -250) vs -250 in the file — essentially unchanged, below the 20-pt threshold; spread still -6.5 (-110). Market de-juiced now ~68.5% vs our 72% — edge now ~+3.5 pts, still below the 4-pt A-grade line. Value thin — abandon recommendation stands, pending user's call. Official starting lineups not yet released (expected ~18:30); projected fives per NBA.com: ATL Flemings (questionable, back) / Alexander-Walker / Daniels / Johnson / Okongwu, CHA White / Miller / James / Reid / Diabate. No new core injury; known outs (Schroder, Allen, Knueppel, G. Williams for CHA; McCollum for ATL) already priced in. This is the final sweep for this game.]",
       "reasoning_zh": "老鹰净效率+2.5对黄蜂联盟最差的-12.2，十月交锋主场赢47分。自估72%对市场去水约67%，错价约+5点。【16:20盯盘更正：独赢赔率 -230 → -250（共识；FanDuel -255、DraftKings -249、BetMGM -250、Action -245、Gridiron -250）；让分 -6.0（-110）→ -6.5（-110）。市场去水现约68.5%，自估72%，错价约+3.5点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。让分仍在公允盘-7.0之内（0.5分余量）。无新核心伤停；黄蜂已知缺阵（施罗德、艾伦、克努佩尔、威廉姆斯）与老鹰麦科勒姆缺阵早盘已计入。】【18:14盯盘更正（终扫）：独赢共识约-245/-250（FanDuel -255、DraftKings -249、BetMGM -250、Action -245、Gridiron -250），与文件内-250基本持平、未达20点阈值；让分仍-6.5（-110）未动。市场去水现约68.5%，自估72%，错价约+3.5点，仍在4点A级线之下，价值已薄，建议放弃，等用户定夺。官方首发名单尚未公布（预计约18:30）；NBA.com预计阵容：老鹰弗莱明斯（存疑，背部）/亚历山大-沃克/丹尼尔斯/约翰逊/奥孔古，黄蜂怀特/米勒/詹姆斯/里德/迪亚巴特。无新核心伤停；已知缺阵（黄蜂施罗德、艾伦、克努佩尔、威廉姆斯；老鹰麦科勒姆）早盘已计入。本场终扫完毕。】",
-      "status": "pending",
-      "score": null,
+      "status": "won",
+      "score": "111-97",
       "spread": {
         "selection": "Atlanta Hawks",
         "line": -6.5,
@@ -723,7 +689,7 @@
         "cover_prob": 53,
         "note_en": "Market -6 vs fair -7; Hawks cover if they win by 7+. Spread data — tracked separately from the moneyline record.",
         "note_zh": "市场让6分对合理让7分；老鹰赢7分以上即穿盘。让分数据单独跟踪，不计入独赢战绩。",
-        "status": "pending"
+        "status": "won"
       }
     },
     {
@@ -755,8 +721,8 @@
     }
   ],
   "record": {
-    "asOf": "2026-11-19",
-    "wins": 58,
+    "asOf": "2026-11-20",
+    "wins": 60,
     "losses": 46,
     "pushes": 0,
     "halfWins": 1,
