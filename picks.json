@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-20T18:15:00-05:00",
+  "generatedAt": "2026-11-20T21:16:00-05:00",
   "picks": [
     {
       "id": "nhl-20261105-bos-pit",
@@ -738,8 +738,8 @@
       "odds": 101,
       "odds_format": "american",
       "confidence": "medium",
-      "reasoning_en": "Conditional — counts only if Alperen Sengun plays, otherwise void. Rockets net rating +7.1 (3rd, #1 offense) vs Nuggets +1.1; self-estimated 55% vs ~48% market-implied (+7 pts). [Line watch 2026-11-20 18:14 EST: moneyline consensus ~+102/+105 (Athlon +101, Action +102, SI/DraftKings +105, BetMGM +108) vs +101 in the file — a 1-4 pt drift, below the 20-pt threshold; spread still +1.5 (-110/-104). Market de-juiced now ~47.6% vs our 55% (if Sengun plays) — edge ~+7.4 pts, still above the 4-pt line. Sengun STILL questionable (corneal abrasion) — no decision yet, condition neither confirmed nor void; Adams questionable, Capela out, unchanged. Final call at the pre-game sweep.]",
-      "reasoning_zh": "条件单：仅当申京确认出战时成立，否则作废。火箭净效率+7.1（联盟第3、进攻第1）对掘金+1.1；自估55%对市场去水约48%，错价约+7点。【18:14盯盘更正：独赢共识约+102/+105（Athlon +101、Action +102、SI/DraftKings +105、BetMGM +108），较文件内+101仅漂移1-4点、未达20点阈值；让分仍+1.5（-110/-104）未动。市场去水现约47.6%，自估55%（申京出战时），错价约+7.4点，仍在4点A级线之上。申京仍列存疑（角膜擦伤）、未定，条件既未成立也未作废；亚当斯存疑、卡佩拉缺阵，均无变化。终扫时再定。】",
+      "reasoning_en": "Conditional — counts only if Alperen Sengun plays, otherwise void. Rockets net rating +7.1 (3rd, #1 offense) vs Nuggets +1.1; self-estimated 55% vs ~48% market-implied (+7 pts). [Line watch 2026-11-20 18:14 EST: moneyline consensus ~+102/+105 (Athlon +101, Action +102, SI/DraftKings +105, BetMGM +108) vs +101 in the file — a 1-4 pt drift, below the 20-pt threshold; spread still +1.5 (-110/-104). Market de-juiced now ~47.6% vs our 55% (if Sengun plays) — edge ~+7.4 pts, still above the 4-pt line. Sengun STILL questionable (corneal abrasion) — no decision yet, condition neither confirmed nor void; Adams questionable, Capela out, unchanged. Final call at the pre-game sweep.] [Line watch 2026-11-20 21:14 EST FINAL SWEEP: condition CONFIRMED — Alperen Sengun (eye) will be available vs Denver per Rotoworld/NBC Sports; Steven Adams (quad) also available. Moneyline consensus ~+102/+105 (Action +102, SI/DraftKings +105, BetMGM +108, Kalshi +100) vs +101 in the file — a 1-7 pt drift, below the 20-pt threshold; spread still +1.5 (-104/-105). Market de-juiced now ~47.6% vs our 55% (Sengun plays) — edge ~+7.4 pts, still above the 4-pt A-grade line. Official starting lineups not yet released (expected ~21:30); both centers available means no downgrade. Pick stands — execute per the morning board. This is the final sweep for this game.]",
+      "reasoning_zh": "条件单：仅当申京确认出战时成立，否则作废。火箭净效率+7.1（联盟第3、进攻第1）对掘金+1.1；自估55%对市场去水约48%，错价约+7点。【18:14盯盘更正：独赢共识约+102/+105（Athlon +101、Action +102、SI/DraftKings +105、BetMGM +108），较文件内+101仅漂移1-4点、未达20点阈值；让分仍+1.5（-110/-104）未动。市场去水现约47.6%，自估55%（申京出战时），错价约+7.4点，仍在4点A级线之上。申京仍列存疑（角膜擦伤）、未定，条件既未成立也未作废；亚当斯存疑、卡佩拉缺阵，均无变化。终扫时再定。】【21:14盯盘更正（终扫）：条件成立——申京（眼部）确认可出战掘金（Rotoworld/NBC Sports），亚当斯（大腿）亦可出战。独赢共识约+102/+105（Action +102、SI/DraftKings +105、BetMGM +108、Kalshi +100），较文件内+101仅漂移1-7点、未达20点阈值；让分仍+1.5（-104/-105）未动。市场去水现约47.6%，自估55%（申京出战时），错价约+7.4点，仍在4点A级线之上。官方首发名单尚未公布（预计约21:30），两名中锋均可出战、无降级。推荐不变，照原单执行。本场终扫完毕。】",
       "status": "pending",
       "score": null,
       "spread": {
