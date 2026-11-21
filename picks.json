@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-20T16:17:11-05:00",
+  "generatedAt": "2026-11-20T18:15:00-05:00",
   "picks": [
     {
       "id": "nhl-20261105-bos-pit",
@@ -711,8 +711,8 @@
       "odds": -250,
       "odds_format": "american",
       "confidence": "medium",
-      "reasoning_en": "Hawks net rating +2.5 vs Hornets' league-worst -12.2; Atlanta won the October meeting by 47 at home. Self-estimated 72% vs ~67% market-implied (+5 pts). [Line watch 2026-11-20 16:20 EST: moneyline corrected -230 -> -250 (consensus; FanDuel -255, DraftKings -249, BetMGM -250, Action -245, Gridiron -250); spread moved -6.0 (-110) -> -6.5 (-110). Market de-juiced now ~68.5% vs our 72% — edge now ~+3.5 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Spread still inside our fair line -7.0 (0.5 pt cushion). No new core injury; Hornets' known outs (Schroder, Allen, Knueppel, G. Williams) and Hawks' McCollum out were already priced in at board time.]",
-      "reasoning_zh": "老鹰净效率+2.5对黄蜂联盟最差的-12.2，十月交锋主场赢47分。自估72%对市场去水约67%，错价约+5点。【16:20盯盘更正：独赢赔率 -230 → -250（共识；FanDuel -255、DraftKings -249、BetMGM -250、Action -245、Gridiron -250）；让分 -6.0（-110）→ -6.5（-110）。市场去水现约68.5%，自估72%，错价约+3.5点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。让分仍在公允盘-7.0之内（0.5分余量）。无新核心伤停；黄蜂已知缺阵（施罗德、艾伦、克努佩尔、威廉姆斯）与老鹰麦科勒姆缺阵早盘已计入。】",
+      "reasoning_en": "Hawks net rating +2.5 vs Hornets' league-worst -12.2; Atlanta won the October meeting by 47 at home. Self-estimated 72% vs ~67% market-implied (+5 pts). [Line watch 2026-11-20 16:20 EST: moneyline corrected -230 -> -250 (consensus; FanDuel -255, DraftKings -249, BetMGM -250, Action -245, Gridiron -250); spread moved -6.0 (-110) -> -6.5 (-110). Market de-juiced now ~68.5% vs our 72% — edge now ~+3.5 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Spread still inside our fair line -7.0 (0.5 pt cushion). No new core injury; Hornets' known outs (Schroder, Allen, Knueppel, G. Williams) and Hawks' McCollum out were already priced in at board time.] [Line watch 2026-11-20 18:14 EST FINAL SWEEP: moneyline consensus ~-245/-250 (FanDuel -255, DraftKings -249, BetMGM -250, Action -245, Gridiron -250) vs -250 in the file — essentially unchanged, below the 20-pt threshold; spread still -6.5 (-110). Market de-juiced now ~68.5% vs our 72% — edge now ~+3.5 pts, still below the 4-pt A-grade line. Value thin — abandon recommendation stands, pending user's call. Official starting lineups not yet released (expected ~18:30); projected fives per NBA.com: ATL Flemings (questionable, back) / Alexander-Walker / Daniels / Johnson / Okongwu, CHA White / Miller / James / Reid / Diabate. No new core injury; known outs (Schroder, Allen, Knueppel, G. Williams for CHA; McCollum for ATL) already priced in. This is the final sweep for this game.]",
+      "reasoning_zh": "老鹰净效率+2.5对黄蜂联盟最差的-12.2，十月交锋主场赢47分。自估72%对市场去水约67%，错价约+5点。【16:20盯盘更正：独赢赔率 -230 → -250（共识；FanDuel -255、DraftKings -249、BetMGM -250、Action -245、Gridiron -250）；让分 -6.0（-110）→ -6.5（-110）。市场去水现约68.5%，自估72%，错价约+3.5点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。让分仍在公允盘-7.0之内（0.5分余量）。无新核心伤停；黄蜂已知缺阵（施罗德、艾伦、克努佩尔、威廉姆斯）与老鹰麦科勒姆缺阵早盘已计入。】【18:14盯盘更正（终扫）：独赢共识约-245/-250（FanDuel -255、DraftKings -249、BetMGM -250、Action -245、Gridiron -250），与文件内-250基本持平、未达20点阈值；让分仍-6.5（-110）未动。市场去水现约68.5%，自估72%，错价约+3.5点，仍在4点A级线之下，价值已薄，建议放弃，等用户定夺。官方首发名单尚未公布（预计约18:30）；NBA.com预计阵容：老鹰弗莱明斯（存疑，背部）/亚历山大-沃克/丹尼尔斯/约翰逊/奥孔古，黄蜂怀特/米勒/詹姆斯/里德/迪亚巴特。无新核心伤停；已知缺阵（黄蜂施罗德、艾伦、克努佩尔、威廉姆斯；老鹰麦科勒姆）早盘已计入。本场终扫完毕。】",
       "status": "pending",
       "score": null,
       "spread": {
@@ -738,8 +738,8 @@
       "odds": 101,
       "odds_format": "american",
       "confidence": "medium",
-      "reasoning_en": "Conditional — counts only if Alperen Sengun plays, otherwise void. Rockets net rating +7.1 (3rd, #1 offense) vs Nuggets +1.1; self-estimated 55% vs ~48% market-implied (+7 pts).",
-      "reasoning_zh": "条件单：仅当申京确认出战时成立，否则作废。火箭净效率+7.1（联盟第3、进攻第1）对掘金+1.1；自估55%对市场去水约48%，错价约+7点。",
+      "reasoning_en": "Conditional — counts only if Alperen Sengun plays, otherwise void. Rockets net rating +7.1 (3rd, #1 offense) vs Nuggets +1.1; self-estimated 55% vs ~48% market-implied (+7 pts). [Line watch 2026-11-20 18:14 EST: moneyline consensus ~+102/+105 (Athlon +101, Action +102, SI/DraftKings +105, BetMGM +108) vs +101 in the file — a 1-4 pt drift, below the 20-pt threshold; spread still +1.5 (-110/-104). Market de-juiced now ~47.6% vs our 55% (if Sengun plays) — edge ~+7.4 pts, still above the 4-pt line. Sengun STILL questionable (corneal abrasion) — no decision yet, condition neither confirmed nor void; Adams questionable, Capela out, unchanged. Final call at the pre-game sweep.]",
+      "reasoning_zh": "条件单：仅当申京确认出战时成立，否则作废。火箭净效率+7.1（联盟第3、进攻第1）对掘金+1.1；自估55%对市场去水约48%，错价约+7点。【18:14盯盘更正：独赢共识约+102/+105（Athlon +101、Action +102、SI/DraftKings +105、BetMGM +108），较文件内+101仅漂移1-4点、未达20点阈值；让分仍+1.5（-110/-104）未动。市场去水现约47.6%，自估55%（申京出战时），错价约+7.4点，仍在4点A级线之上。申京仍列存疑（角膜擦伤）、未定，条件既未成立也未作废；亚当斯存疑、卡佩拉缺阵，均无变化。终扫时再定。】",
       "status": "pending",
       "score": null,
       "spread": {
