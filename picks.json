@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-22T09:11:37-05:00",
+ "generatedAt": "2026-11-22T12:20:00-05:00",
  "picks": [
   {
    "id": "soc-20261107-mancity-nottingham-premier-league",
@@ -792,11 +792,11 @@
    "start_time": "2026-11-22T15:00:00",
    "market": "moneyline",
    "selection": "Atletico Madrid",
-   "odds": 66,
+   "odds": -180,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Self-estimated 64% vs ~58% market-implied (1.66) — about +6 points of edge. Atletico are 8-1-1 vs non-top-two sides; Getafe have won 2 of 9.",
-   "reasoning_zh": "自估64%对市场去水约58%（1.66），错价约+6点。马竞对非豪门8胜1平1负，赫塔费近9场仅2胜。",
+   "reasoning_en": "Self-estimated 64% vs ~58% market-implied (1.66) — about +6 points of edge. Atletico are 8-1-1 vs non-top-two sides; Getafe have won 2 of 9. [Line watch 2026-11-22 12:20 EST: moneyline corrected +66 -> -180 (consensus; Bleacher Nation -184, Dimers -178, Educated Bets -185, MyGoal90 1.55). Market de-juiced now ~61.2% vs our 64% — edge now ~+2.8 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Asian handicap unchanged at -1.0.]",
+   "reasoning_zh": "自估64%对市场去水约58%（1.66），错价约+6点。马竞对非豪门8胜1平1负，赫塔费近9场仅2胜。【12:20盯盘更正：独赢赔率 +66 → -180（共识；Bleacher Nation -184、Dimers -178、Educated Bets -185、MyGoal90 1.55）。市场去水现约61.2%，自估64%，错价约+2.8点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。亚盘仍-1.0未动。】",
    "status": "pending",
    "score": null,
    "spread": {
@@ -846,11 +846,11 @@
    "start_time": "2026-11-22T12:30:00",
    "market": "moneyline",
    "selection": "Osasuna",
-   "odds": 78,
+   "odds": -120,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Self-estimated 58% vs ~53.5% market-implied (1.78) — about +4.5 points of edge. Malaga winless in 12 and bottom; Osasuna have conceded just 4 goals in 6 home games.",
-   "reasoning_zh": "自估58%对市场去水约53.5%（1.78），错价约+4.5点。马拉加12轮0胜垫底，奥萨苏纳主场6场仅丢4球。",
+   "reasoning_en": "Self-estimated 58% vs ~53.5% market-implied (1.78) — about +4.5 points of edge. Malaga winless in 12 and bottom; Osasuna have conceded just 4 goals in 6 home games. [Line watch 2026-11-22 12:20 EST FINAL SWEEP: moneyline corrected +78 -> -120 (consensus; Bet365 1.83, Sportytrader best 1.85, Bleacher Nation -124, Dimers -113). Market de-juiced now ~53.2% vs our 58% — edge still ~+4.8 pts, above the 4-pt A-grade line. Confirmed lineups (starting11/comuniate): Osasuna full-strength XI — Herrera; Rosier, Catena, Boyomo, Rico; Moncayola, Gomez; Garcia, Oroz, Barja; Budimir. Malaga field a makeshift back three with debutant Diego Murillo at centre-back. No new core injury. Pick stands — execute per the morning board. This is the final sweep for this game.]",
+   "reasoning_zh": "自估58%对市场去水约53.5%（1.78），错价约+4.5点。马拉加12轮0胜垫底，奥萨苏纳主场6场仅丢4球。【12:20盯盘更正（终扫）：独赢赔率 +78 → -120（共识；Bet365 1.83、Sportytrader最高1.85、Bleacher Nation -124、Dimers -113）。市场去水现约53.2%，自估58%，错价仍约+4.8点，在4点A级线之上。官方首发已确认（starting11/comuniate）：奥萨苏纳全主力——埃雷拉；罗西耶、卡特纳、博约莫、里科；蒙卡约拉、戈麦斯；加西亚、奥罗斯、巴尔哈；布迪米尔。马拉加后防临时拼凑，首秀中卫穆里略首发。无新核心伤停。推荐不变，照原单执行。本场终扫完毕。】",
    "status": "pending",
    "score": null
   }
