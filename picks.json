@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-23T09:12:26-05:00",
+ "generatedAt": "2026-11-23T13:20:00-05:00",
  "picks": [
   {
    "id": "soc-20261108-lorient-lehavre-ligue-1",
@@ -815,8 +815,8 @@
    "odds": 150,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Self-estimated 44.5% vs ~39.3% market-implied (+150) — about +5.2 points of edge. Portland's net rating is +5.8 (top seven on both ends) vs Philadelphia's +2.6; the 76ers' 14-3 record flatters them. dr ratings give Portland 47.5%.",
-   "reasoning_zh": "自估44.5%对市场去水约39.3%（+150），错价约+5.2点。开拓者净效率+5.8（攻防均联盟前七）对76人+2.6，76人14胜3负的战绩含水分；dr ratings给开拓者47.5%。",
+   "reasoning_en": "Self-estimated 44.5% vs ~39.3% market-implied (+150) — about +5.2 points of edge. Portland's net rating is +5.8 (top seven on both ends) vs Philadelphia's +2.6; the 76ers' 14-3 record flatters them. dr ratings give Portland 47.5%. [Line watch 2026-11-23 13:14 EST: moneyline consensus ~+140 (Action Network +140, BetMGM +140, DraftKings +139, FanDuel +140) vs +150 published — a 10-pt drift, below the 20-pt threshold; spread still +3.5 (-106 to -115) consensus, unchanged. Market de-juiced now ~40.0% vs our 44.5% — edge ~+4.5 pts, still above the 4-pt A-grade line. NEW: Joel Embiid (PHI, 20.4 ppg) downgraded to QUESTIONABLE (illness) on the official injury report after Monday's shootaround — if he sits, the edge grows; if he plays, no change. Jaylen Brown, Dean Wade and Adem Bona all upgraded to probable (expected to play). No other new core injury. Pick stands — final call at the 18:14 sweep once Embiid's status resolves.]",
+   "reasoning_zh": "自估44.5%对市场去水约39.3%（+150），错价约+5.2点。开拓者净效率+5.8（攻防均联盟前七）对76人+2.6，76人14胜3负的战绩含水分；dr ratings给开拓者47.5%。【13:14盯盘更正：独赢共识约+140（Action Network +140、BetMGM +140、DraftKings +139、FanDuel +140），较早盘+150仅漂移10点、未达20点阈值；让分仍+3.5（-106至-115）共识未动。市场去水现约40.0%，自估44.5%，错价约+4.5点，仍在4点A级线之上。新消息：76人恩比德（场均20.4分）因生病被官方伤病报告列为存疑（今晨投篮训练后下调）——若其缺阵错价更大，若出战则无变化。杰伦·布朗、韦德、博纳均升为大概率出战（预计上场）。无其他新核心伤停。推荐不变，终扫在18:14那轮、等恩比德状态落定再作最终判定。】",
    "status": "pending",
    "score": null,
    "spread": {
