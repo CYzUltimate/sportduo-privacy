@@ -1,58 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-22T12:20:00-05:00",
+ "generatedAt": "2026-11-23T09:12:26-05:00",
  "picks": [
-  {
-   "id": "soc-20261107-mancity-nottingham-premier-league",
-   "sport": "soccer",
-   "league": "premier-league",
-   "home_team": "Nottingham Forest",
-   "away_team": "Manchester City",
-   "start_time": "2026-11-07T12:30:00",
-   "market": "moneyline",
-   "selection": "Manchester City",
-   "odds": -133,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Our 62% vs market 56.6% (de-juiced), +5.4 pts edge: Forest have no home goal in five; Haaland scores in every away game.",
-   "reasoning_zh": "自估62% vs 市场去水56.6%，错价+5.4点：森林主场5场0进球，哈兰德客场场场破门。",
-   "status": "lost",
-   "score": "3-1"
-  },
-  {
-   "id": "nba-20261107-nyk-cle",
-   "sport": "nba",
-   "league": "nba",
-   "home_team": "Cleveland Cavaliers",
-   "away_team": "New York Knicks",
-   "start_time": "2026-11-07T20:00:00",
-   "market": "moneyline",
-   "selection": "Cleveland Cavaliers",
-   "odds": 165,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Our 42% vs market 36.1% (de-juiced), +5.9 pts edge: Cavs are 4-1 at home and just beat the 76ers by 24 without Allen.",
-   "reasoning_zh": "自估42% vs 市场去水36.1%，错价+5.9点：骑士主场4胜1负，昨日无艾伦仍大胜76人24分。",
-   "status": "lost",
-   "score": "97-109"
-  },
-  {
-   "id": "soc-20261107-bremen-stuttgart-bundesliga",
-   "sport": "soccer",
-   "league": "bundesliga",
-   "home_team": "VfB Stuttgart",
-   "away_team": "Werder Bremen",
-   "start_time": "2026-11-07T12:30:00",
-   "market": "moneyline",
-   "selection": "Werder Bremen",
-   "odds": 400,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Our 27% vs market 19.6% (de-juiced), +7.4 pts edge: Bremen unbeaten in seven; Fullkrug leads the Bundesliga with nine goals.",
-   "reasoning_zh": "自估27% vs 市场去水19.6%，错价+7.4点：不莱梅7场不败，菲尔克鲁格9球领跑德甲。",
-   "status": "lost",
-   "score": "1-0"
-  },
   {
    "id": "soc-20261108-lorient-lehavre-ligue-1",
    "sport": "soccer",
@@ -743,8 +692,8 @@
    "confidence": "high",
    "reasoning_en": "Self-estimated 55% vs ~46% market-implied (+110) — about +9 points of edge. Detroit miss starters Duren and Duncan Robinson; Atlanta are hot at home (8 of last 11).",
    "reasoning_zh": "自估55%对市场去水约46%（+110），错价约+9点。活塞缺杜伦与邓肯·罗宾逊两名首发，老鹰主场近11场8胜。",
-   "status": "pending",
-   "score": null,
+   "status": "won",
+   "score": "107-97",
    "spread": {
     "selection": "Atlanta Hawks",
     "line": 2.5,
@@ -753,7 +702,7 @@
     "cover_prob": 63,
     "note_en": "Market +2.5 vs fair +1.5; cover prob ~63% from the 55% win estimate (normal margin model, sd ~12). Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场受让2.5分，对比公允受让1.5分；按自估55%胜率折算覆盖概率约63%。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   },
   {
@@ -768,10 +717,10 @@
    "odds": -122,
    "odds_format": "american",
    "confidence": "high",
-   "reasoning_en": "Self-estimated 62% vs ~53% market-implied (-122) — about +9 points of edge. Utah miss top scorer Markkanen and rank 28th in offense; Dallas have Flagg and Irving fit.",
-   "reasoning_zh": "自估62%对市场去水约53%（-122），错价约+9点。爵士缺头号得分手马尔卡宁、进攻联盟第28，独行侠弗拉格与欧文齐整。",
-   "status": "pending",
-   "score": null,
+   "reasoning_en": "Self-estimated 62% vs ~53% market-implied (-122) — about +9 points of edge. Utah miss top scorer Markkanen and rank 28th in offense; Dallas have Flagg and Irving fit. [Line watch 2026-11-22 16:14 EST: moneyline consensus split - aggregators still Dallas -1.5 / ML ~-123 to -125 (Gridiron -125, MoneyMaverick -123), while some single books (FanDuel, BetRivers) have flipped to Jazz -1.5 / Jazz ML favorite; DraftKings/BetMGM -110. Consensus ~-115 vs -122 published - a ~7-pt drift, below the 20-pt threshold; spread still -1.5 at the consensus books. Market de-juiced now ~52% vs our 62% - edge still ~+10 pts, above the 4-pt A-grade line. Injury check (NBA official report): Markkanen, Jaren Jackson Jr. and Nurkic all OUT for Utah as expected; Irving and Flagg NOT listed (available); P.J. Washington doubtful (illness, missed Saturday) - watch at the final sweep. Pick stands. Final sweep at the 18:14 round.]",
+   "reasoning_zh": "自估62%对市场去水约53%（-122），错价约+9点。爵士缺头号得分手马尔卡宁、进攻联盟第28，独行侠弗拉格与欧文齐整。【16:14盯盘更正：独赢共识分歧——聚合盘仍为独行侠-1.5/独赢约-123至-125（Gridiron -125、MoneyMaverick -123），个别单家（FanDuel、BetRivers）已翻到爵士-1.5/爵士独赢热门；DraftKings/BetMGM为-110。共识约-115，较早盘-122漂移约7点、未达20点阈值；聚合盘让分仍为-1.5。市场去水现约52%，自估62%，错价仍约+10点，在4点A级线之上。伤停核查（NBA官方报告）：爵士马尔卡宁、杰克逊、努尔基奇均如预期缺阵；欧文与弗拉格均未列入名单（可出战）；P.J.华盛顿存疑（生病，周六已缺阵），终扫时再看。推荐不变。终扫在18:14那轮。】",
+   "status": "won",
+   "score": "114-116",
    "spread": {
     "selection": "Dallas Mavericks",
     "line": -1.5,
@@ -780,7 +729,7 @@
     "cover_prob": 57,
     "note_en": "Market -1.5 vs fair -3.5; cover prob ~57% from the 62% win estimate (normal margin model, sd ~12). Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场让1.5分，对比公允让3.5分；按自估62%胜率折算覆盖概率约57%。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   },
   {
@@ -797,8 +746,8 @@
    "confidence": "medium",
    "reasoning_en": "Self-estimated 64% vs ~58% market-implied (1.66) — about +6 points of edge. Atletico are 8-1-1 vs non-top-two sides; Getafe have won 2 of 9. [Line watch 2026-11-22 12:20 EST: moneyline corrected +66 -> -180 (consensus; Bleacher Nation -184, Dimers -178, Educated Bets -185, MyGoal90 1.55). Market de-juiced now ~61.2% vs our 64% — edge now ~+2.8 pts, below the 4-pt A-grade line. Value thin at this price — recommend abandoning, pending user's call. Asian handicap unchanged at -1.0.]",
    "reasoning_zh": "自估64%对市场去水约58%（1.66），错价约+6点。马竞对非豪门8胜1平1负，赫塔费近9场仅2胜。【12:20盯盘更正：独赢赔率 +66 → -180（共识；Bleacher Nation -184、Dimers -178、Educated Bets -185、MyGoal90 1.55）。市场去水现约61.2%，自估64%，错价约+2.8点，跌破4点A级线，当前价价值已薄，建议放弃，等用户定夺。亚盘仍-1.0未动。】",
-   "status": "pending",
-   "score": null,
+   "status": "won",
+   "score": "0-3",
    "spread": {
     "selection": "Atletico Madrid",
     "line": -1.0,
@@ -807,7 +756,7 @@
     "cover_prob": 33,
     "note_en": "Market -1.0 AH at evens vs fair -1.0; cover prob ~33% (win by 2+) from 64% win / 22% draw estimates. Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场亚盘马竞-1.0（均水），与公允-1.0一致；按自估64%胜率/22%平局折算赢2球以上概率约33%。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   },
   {
@@ -822,10 +771,10 @@
    "odds": -203,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Self-estimated 70% vs ~65.5% market-implied (-203) — about +4.5 points of edge. Tampa Bay rested at home; Buffalo on a back-to-back with all three goalies under .900.",
-   "reasoning_zh": "自估70%对市场去水约65.5%（-203），错价约+4.5点。闪电主场以逸待劳，军刀背靠背且三门皆弱。",
-   "status": "pending",
-   "score": null,
+   "reasoning_en": "Self-estimated 70% vs ~65.5% market-implied (-203) — about +4.5 points of edge. Tampa Bay rested at home; Buffalo on a back-to-back with all three goalies under .900. [Line watch 2026-11-22 16:14 EST FINAL SWEEP: moneyline consensus ~-210/-218 (DraftKings -218, Action Network -218, FanDuel -210, Circa -204) vs -203 published - a 7-15 pt drift, below the 20-pt threshold; puck line -1.5 (+120 DraftKings, +115 to +125 range) vs +124 published, a ~4-pt drift, below the 30-pt threshold. Market de-juiced now ~65.5% vs our 70% - edge still ~+4.5 pts, above the 4-pt A-grade line. Starters NOT yet officially confirmed: Vasilevskiy projected for Tampa Bay (Daily Faceoff) and Luukkonen expected for Buffalo (Lyon played Saturday); official confirmation expected close to puck drop. Hagel (IR, eligible to return tonight) unconfirmed; Buffalo still missing Helenius, Danforth and Grzelcyk (IR). No new core injury. Pick stands - execute per the morning board. This is the final sweep for this game.]",
+   "reasoning_zh": "自估70%对市场去水约65.5%（-203），错价约+4.5点。闪电主场以逸待劳，军刀背靠背且三门皆弱。【16:14盯盘更正（终扫）：独赢共识约-210/-218（DraftKings -218、Action Network -218、FanDuel -210、Circa -204），较早盘-203漂移7-15点、未达20点阈值；让分-1.5（+120，DraftKings，区间+115至+125），较文件内+124漂移约4点、未达30点阈值。市场去水现约65.5%，自估70%，错价仍约+4.5点，在4点A级线之上。门将尚未官方确认：闪电预计瓦西列夫斯基（Daily Faceoff）、军刀预计卢科宁（莱昂昨夜已首发），以开赛前官方名单为准。哈格尔（伤病名单，今晚具备复出资格）未确认；军刀仍缺海伦纽斯、丹福斯、格泽尔奇克（伤病名单）。无新核心伤停。推荐不变，照原单执行。本场终扫完毕。】",
+   "status": "lost",
+   "score": "2-6",
    "spread": {
     "selection": "Tampa Bay Lightning",
     "line": -1.5,
@@ -834,7 +783,7 @@
     "cover_prob": 40,
     "note_en": "Market puck line -1.5 at +124; fair price about +150 from the 70% win estimate (win by 2+ ~40%). Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场让分盘闪电-1.5（+124），按自估70%胜率折算公允约+150（赢2球以上约40%）。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "lost"
    }
   },
   {
@@ -851,14 +800,41 @@
    "confidence": "medium",
    "reasoning_en": "Self-estimated 58% vs ~53.5% market-implied (1.78) — about +4.5 points of edge. Malaga winless in 12 and bottom; Osasuna have conceded just 4 goals in 6 home games. [Line watch 2026-11-22 12:20 EST FINAL SWEEP: moneyline corrected +78 -> -120 (consensus; Bet365 1.83, Sportytrader best 1.85, Bleacher Nation -124, Dimers -113). Market de-juiced now ~53.2% vs our 58% — edge still ~+4.8 pts, above the 4-pt A-grade line. Confirmed lineups (starting11/comuniate): Osasuna full-strength XI — Herrera; Rosier, Catena, Boyomo, Rico; Moncayola, Gomez; Garcia, Oroz, Barja; Budimir. Malaga field a makeshift back three with debutant Diego Murillo at centre-back. No new core injury. Pick stands — execute per the morning board. This is the final sweep for this game.]",
    "reasoning_zh": "自估58%对市场去水约53.5%（1.78），错价约+4.5点。马拉加12轮0胜垫底，奥萨苏纳主场6场仅丢4球。【12:20盯盘更正（终扫）：独赢赔率 +78 → -120（共识；Bet365 1.83、Sportytrader最高1.85、Bleacher Nation -124、Dimers -113）。市场去水现约53.2%，自估58%，错价仍约+4.8点，在4点A级线之上。官方首发已确认（starting11/comuniate）：奥萨苏纳全主力——埃雷拉；罗西耶、卡特纳、博约莫、里科；蒙卡约拉、戈麦斯；加西亚、奥罗斯、巴尔哈；布迪米尔。马拉加后防临时拼凑，首秀中卫穆里略首发。无新核心伤停。推荐不变，照原单执行。本场终扫完毕。】",
+   "status": "won",
+   "score": "1-0"
+  },
+  {
+   "id": "nba-20261123-por-phi",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Philadelphia 76ers",
+   "away_team": "Portland Trail Blazers",
+   "start_time": "2026-11-23T19:00:00",
+   "market": "moneyline",
+   "selection": "Portland Trail Blazers",
+   "odds": 150,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Self-estimated 44.5% vs ~39.3% market-implied (+150) — about +5.2 points of edge. Portland's net rating is +5.8 (top seven on both ends) vs Philadelphia's +2.6; the 76ers' 14-3 record flatters them. dr ratings give Portland 47.5%.",
+   "reasoning_zh": "自估44.5%对市场去水约39.3%（+150），错价约+5.2点。开拓者净效率+5.8（攻防均联盟前七）对76人+2.6，76人14胜3负的战绩含水分；dr ratings给开拓者47.5%。",
    "status": "pending",
-   "score": null
+   "score": null,
+   "spread": {
+    "selection": "Portland Trail Blazers",
+    "line": 3.5,
+    "odds": -110,
+    "fair_line": 1.5,
+    "cover_prob": 56,
+    "note_en": "Market +3.5 at -110 vs fair +1.5 from the 44.5% win estimate (normal margin model, sd 12); cover prob ~56%. Spread data — tracked separately from the moneyline record.",
+    "note_zh": "市场让分+3.5（-110），按自估44.5%胜率折算公允+1.5（正态分差模型，标准差12），覆盖概率约56%。让分数据单独统计，不计入独赢战绩。",
+    "status": "pending"
+   }
   }
  ],
  "record": {
-  "asOf": "2026-11-21",
-  "wins": 60,
-  "losses": 49,
+  "asOf": "2026-11-22",
+  "wins": 64,
+  "losses": 50,
   "pushes": 0,
   "halfWins": 1,
   "roiPercent": null
