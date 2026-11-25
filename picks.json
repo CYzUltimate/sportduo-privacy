@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-25T09:28:10-05:00",
+ "generatedAt": "2026-11-25T11:17:00-05:00",
  "picks": [
   {
    "id": "nhl-20261108-phi-cgy",
@@ -815,11 +815,11 @@
    "start_time": "2026-11-25T17:00:00",
    "market": "moneyline",
    "selection": "Miami Heat",
-   "odds": -102,
+   "odds": 110,
    "odds_format": "american",
    "confidence": "medium",
-   "reasoning_en": "Conditional — counts only if Giannis Antetokounmpo plays, otherwise void. Self-estimated 54% (with Giannis) vs ~48.5% market-implied (-102) — about +5.5 points of edge. Miami's net rating is +4.8 (7th) vs Philadelphia's +1.6 (15th); the 76ers' 14-4 record flatters them, and Embiid is doubtful (illness).",
-   "reasoning_zh": "条件单：字母哥出战才成立，否则作废。自估54%（字母哥出战时）对市场去水约48.5%（-102），错价约+5.5点。热火净效率+4.8（第7）对76人+1.6（第15），76人14胜4负战绩虚高，恩比德生病存疑。",
+   "reasoning_en": "Conditional — counts only if Giannis Antetokounmpo plays, otherwise void. Self-estimated 54% (with Giannis) vs ~48.5% market-implied (-102) — about +5.5 points of edge. Miami's net rating is +4.8 (7th) vs Philadelphia's +1.6 (15th); the 76ers' 14-4 record flatters them, and Embiid is doubtful (illness). [Line watch 2026-11-25 11:17 EST: moneyline corrected -102 -> +110 (consensus; FanDuel +108, 10-book consensus +111, Kalshi ~48c). Market de-juiced now ~46.0% vs our 54% — edge now ~+8.0 pts, above the 4-pt A-grade line. Pick stands and is strengthened. Spread unchanged at +1.5 (-110). Giannis still QUESTIONABLE (right groin tendinitis; practiced Tuesday and coach optimistic — not yet confirmed); Embiid still doubtful (illness) as expected. Final sweep at the 16:14 round.]",
+   "reasoning_zh": "条件单：字母哥出战才成立，否则作废。自估54%（字母哥出战时）对市场去水约48.5%（-102），错价约+5.5点。热火净效率+4.8（第7）对76人+1.6（第15），76人14胜4负战绩虚高，恩比德生病存疑。【11:17盯盘更正：独赢赔率 -102 → +110（共识；FanDuel +108、10家共识+111、Kalshi约48美分）。市场去水现约46.0%，自估54%，错价约+8.0点，仍在4点A级线之上，推荐不变且价值更大。让分仍+1.5（-110）未动。字母哥仍存疑（右腹股沟肌腱炎；周二参加训练、主帅乐观——尚未官方确认）；恩比德仍生病存疑（在预期内）。终扫在16:14那轮。】",
    "status": "pending",
    "score": null,
    "spread": {
