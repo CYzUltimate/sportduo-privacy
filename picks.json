@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-24T09:28:00-05:00",
+ "generatedAt": "2026-11-24T22:59:41-05:00",
  "picks": [
   {
    "id": "nhl-20261108-phi-cgy",
@@ -776,8 +776,8 @@
    "confidence": "medium",
    "reasoning_en": "Self-estimated 60% vs ~54.7% market-implied (-133) — about +5.3 points of edge. Detroit net rating +4.9 vs Orlando -4.2; the Magic are 1-5 at home with Banchero out long-term, while the Pistons are 7-3 on the road. Watch: Cade Cunningham (probable, knee) — final check at the 18:30 sweep.",
    "reasoning_zh": "自估60%对市场去水约54.7%（-133），错价约+5.3点。活塞净效率+4.9对魔术-4.2，魔术主场1胜5负且班凯罗长期缺阵，活塞客场7胜3负。留意：康宁汉姆列大概率出战（膝盖），18:30终扫确认。",
-   "status": "pending",
-   "score": null,
+   "status": "won",
+   "score": "86-104",
    "spread": {
     "selection": "Detroit Pistons",
     "line": -2.5,
@@ -786,13 +786,13 @@
     "cover_prob": 52,
     "note_en": "Market -2.5 at -110 vs fair -3.0 from the 60% win estimate (normal margin model, sd 12); cover prob ~52%. Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场让分-2.5（-110），按自估60%胜率折算公允-3.0（正态分差模型，标准差12），覆盖概率约52%。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   }
  ],
  "record": {
-  "asOf": "2026-11-23",
-  "wins": 65,
+  "asOf": "2026-11-24",
+  "wins": 66,
   "losses": 50,
   "pushes": 0,
   "halfWins": 1,
