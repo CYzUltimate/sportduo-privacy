@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-24T22:59:41-05:00",
+ "generatedAt": "2026-11-25T09:28:10-05:00",
  "picks": [
   {
    "id": "nhl-20261108-phi-cgy",
@@ -787,6 +787,104 @@
     "note_en": "Market -2.5 at -110 vs fair -3.0 from the 60% win estimate (normal margin model, sd 12); cover prob ~52%. Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场让分-2.5（-110），按自估60%胜率折算公允-3.0（正态分差模型，标准差12），覆盖概率约52%。让分数据单独统计，不计入独赢战绩。",
     "status": "won"
+   }
+  },
+  {
+   "id": "soc-20261125-sporting-manutd-ucl",
+   "sport": "soccer",
+   "league": "ucl",
+   "home_team": "Sporting CP",
+   "away_team": "Manchester United",
+   "start_time": "2026-11-25T15:00:00",
+   "market": "moneyline",
+   "selection": "Sporting CP",
+   "odds": 150,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Self-estimated 44% vs ~38.3% market-implied (+150) — about +5.7 points of edge. Sporting have won five straight with four clean sheets at home; United just lost 0-4 at Liverpool, top UCL scorer Cunha is suspended, and United have one away win in eleven in Europe.",
+   "reasoning_zh": "自估44%对市场去水约38.3%（+150），错价约+5.7点。葡萄牙体育五连胜、四场零封主场强势；曼联刚0-4惨败利物浦，欧冠头号射手库尼亚停赛，欧战客场11场仅1胜。",
+   "status": "pending",
+   "score": null
+  },
+  {
+   "id": "nba-20261125-mia-phi",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Philadelphia 76ers",
+   "away_team": "Miami Heat",
+   "start_time": "2026-11-25T17:00:00",
+   "market": "moneyline",
+   "selection": "Miami Heat",
+   "odds": -102,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Conditional — counts only if Giannis Antetokounmpo plays, otherwise void. Self-estimated 54% (with Giannis) vs ~48.5% market-implied (-102) — about +5.5 points of edge. Miami's net rating is +4.8 (7th) vs Philadelphia's +1.6 (15th); the 76ers' 14-4 record flatters them, and Embiid is doubtful (illness).",
+   "reasoning_zh": "条件单：字母哥出战才成立，否则作废。自估54%（字母哥出战时）对市场去水约48.5%（-102），错价约+5.5点。热火净效率+4.8（第7）对76人+1.6（第15），76人14胜4负战绩虚高，恩比德生病存疑。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Miami Heat",
+    "line": 1.5,
+    "odds": -110,
+    "fair_line": -1.2,
+    "cover_prob": 59,
+    "note_en": "Market +1.5 vs fair -1.2; cover prob ~59% from the 54% win estimate (normal margin model, sd ~12). Condition inherited: void if Giannis does not play. Spread data — tracked separately from the moneyline record.",
+    "note_zh": "市场受让1.5分，对比公允受让-1.2分；按自估54%胜率折算覆盖概率约59%。条件继承：字母哥不出战则作废。让分数据单独统计，不计入独赢战绩。",
+    "status": "pending"
+   }
+  },
+  {
+   "id": "nba-20261125-chi-cha",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Charlotte Hornets",
+   "away_team": "Chicago Bulls",
+   "start_time": "2026-11-25T19:00:00",
+   "market": "moneyline",
+   "selection": "Chicago Bulls",
+   "odds": 129,
+   "odds_format": "american",
+   "confidence": "high",
+   "reasoning_en": "Self-estimated 50% vs ~41.9% market-implied (+129) — about +8.1 points of edge. Net-rating gap is 10.1 points (Chicago -1.4 vs Charlotte -11.5, league-worst); the Hornets are 1-9 in their last 10 on a five-game losing streak and already eliminated from the NBA Cup.",
+   "reasoning_zh": "自估50%对市场去水约41.9%（+129），错价约+8.1点。净效率差10.1点（公牛-1.4对黄蜂-11.5联盟最差）；黄蜂近10场1胜9负、5连败，杯赛已出局。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Chicago Bulls",
+    "line": 3.5,
+    "odds": -110,
+    "fair_line": 0.0,
+    "cover_prob": 61,
+    "note_en": "Market +3.5 vs fair 0.0 (pick'em); cover prob ~61% from the 50% win estimate (normal margin model, sd ~12). Spread data — tracked separately from the moneyline record.",
+    "note_zh": "市场受让3.5分，对比公允均势（0分）；按自估50%胜率折算覆盖概率约61%。让分数据单独统计，不计入独赢战绩。",
+    "status": "pending"
+   }
+  },
+  {
+   "id": "nba-20261125-min-okc",
+   "sport": "nba",
+   "league": "nba",
+   "home_team": "Oklahoma City Thunder",
+   "away_team": "Minnesota Timberwolves",
+   "start_time": "2026-11-25T19:30:00",
+   "market": "moneyline",
+   "selection": "Minnesota Timberwolves",
+   "odds": 100,
+   "odds_format": "american",
+   "confidence": "medium",
+   "reasoning_en": "Self-estimated 53% vs ~48.0% market-implied (+100) — about +5.0 points of edge. Minnesota's net rating is +7.5 (2nd) with the league's best defense; Oklahoma City have seven players out including Holmgren and Jalen Williams, and have lost six of eight.",
+   "reasoning_zh": "自估53%对市场去水约48.0%（+100），错价约+5.0点。森林狼净效率+7.5（第2）、防守联盟第1；雷霆7人伤缺（含霍姆格伦与杰伦·威廉姆斯），近8场输6场。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Minnesota Timberwolves",
+    "line": 1.5,
+    "odds": -110,
+    "fair_line": -0.9,
+    "cover_prob": 58,
+    "note_en": "Market +1.5 vs fair -0.9; cover prob ~58% from the 53% win estimate (normal margin model, sd ~12). Spread data — tracked separately from the moneyline record.",
+    "note_zh": "市场受让1.5分，对比公允受让-0.9分；按自估53%胜率折算覆盖概率约58%。让分数据单独统计，不计入独赢战绩。",
+    "status": "pending"
    }
   }
  ],
