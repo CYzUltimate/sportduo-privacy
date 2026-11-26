@@ -1,85 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-25T19:29:00-05:00",
+ "generatedAt": "2026-11-25T22:58:15-05:00",
  "picks": [
-  {
-   "id": "nhl-20261108-phi-cgy",
-   "sport": "nhl",
-   "league": "nhl",
-   "home_team": "Calgary Flames",
-   "away_team": "Philadelphia Flyers",
-   "start_time": "2026-11-08T19:00:00",
-   "market": "moneyline",
-   "selection": "Calgary Flames",
-   "odds": -106,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Conditional — counts only if Cooley starts; void if Wolf starts. Our 55% vs market 49.2% (de-juiced), +5.7 pts edge: Calgary have won five of six at home and allow just 2.4 per game over ten; Philadelphia are 1-6-1 on the road.",
-   "reasoning_zh": "条件单：仅当库利确认首发才成立，沃尔夫首发直接作废。自估55% vs 市场去水49.2%，错价+5.7点：火焰主场近6场赢5场、近10场场均仅失2.4球；飞人客场1-6-1。",
-   "status": "won",
-   "score": "4-3"
-  },
-  {
-   "id": "nba-20261109-lal-atl",
-   "sport": "nba",
-   "league": "nba",
-   "home_team": "Atlanta Hawks",
-   "away_team": "Los Angeles Lakers",
-   "start_time": "2026-11-09T19:00:00",
-   "market": "moneyline",
-   "selection": "Atlanta Hawks",
-   "odds": 117,
-   "odds_format": "american",
-   "confidence": "high",
-   "reasoning_en": "Our 54% vs market 44.2% (de-juiced), +9.8 pts edge (halved to +4.9 as injury-core evidence): Doncic is confirmed out with back tightness and the Lakers are on the second night of a back-to-back; the Hawks have won four straight at home with the league's second-best scoring run.",
-   "reasoning_zh": "自估54% vs 市场去水44.2%，错价+9.8点（伤缺核心证据折半后+4.9点）：东契奇确认缺阵、湖人背靠背第二夜；老鹰4连胜主场出击，近4场得分联盟第2。",
-   "status": "lost",
-   "score": "114-124"
-  },
-  {
-   "id": "nba-20261109-mem-tor",
-   "sport": "nba",
-   "league": "nba",
-   "home_team": "Toronto Raptors",
-   "away_team": "Memphis Grizzlies",
-   "start_time": "2026-11-09T19:30:00",
-   "market": "moneyline",
-   "selection": "Memphis Grizzlies",
-   "odds": 131,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Conditional — counts only if Scottie Barnes is confirmed OUT; void if he plays. Our 52% (if Barnes sits) vs market 41.5% (de-juiced), +10.5 pts edge (halved to +5.2 as injury-core evidence): Toronto may miss three starters with Leonard already out and Quickley doubtful; Memphis own the league's top-scoring offense.",
-   "reasoning_zh": "条件单：仅当巴恩斯确认缺阵时成立，若其出战则作废。自估52%（巴恩斯缺阵时）vs 市场去水41.5%，错价+10.5点（伤缺核心证据折半后+5.2点）：猛龙或缺三大核心，伦纳德已缺阵、奎克利存疑；灰熊联盟第一进攻。",
-   "status": "won",
-   "score": "102-118"
-  },
-  {
-   "id": "nba-20261110-lac-phx",
-   "sport": "nba",
-   "league": "nba",
-   "home_team": "Phoenix Suns",
-   "away_team": "LA Clippers",
-   "start_time": "2026-11-10T21:00:00",
-   "market": "moneyline",
-   "selection": "LA Clippers",
-   "odds": 143,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Our 44% vs market 39.5% (de-juiced), +4.5 pts edge at the line: Phoenix are on the second night of a back-to-back after a 26-point home loss to San Antonio; the Clippers' net rating (-3.7) is better than Phoenix (-8.1). Thin call - models disagree on the Clippers (40-44%).",
-   "reasoning_zh": "自估44% vs 市场去水39.5%，错价+4.5点压线入选：太阳背靠背第二夜、前夜主场惨败马刺26分；快船净效率-3.7优于太阳-8.1。压线单，模型对快船分歧大（40%-44%）。",
-   "status": "lost",
-   "score": "133-110",
-   "spread": {
-    "selection": "LA Clippers",
-    "line": 3.5,
-    "odds": -110,
-    "fair_line": 1.8,
-    "cover_prob": 56,
-    "note_en": "Market +3.5 vs our fair +1.8 (derived from the 44% win estimate): roughly 1.5 pts of cushion on the Clippers side. Spread data - tracked separately from the moneyline record.",
-    "note_zh": "市场盘快船 +3.5，我们的公平盘 +1.8（由自估44%胜率换算）：快船这边约有1.5分余量。让分数据单独跟踪，不计入独赢战绩。",
-    "status": "lost"
-   }
-  },
   {
    "id": "nba-20261111-gsw-hou",
    "sport": "nba",
@@ -803,8 +725,8 @@
    "confidence": "medium",
    "reasoning_en": "Self-estimated 44% vs ~38.3% market-implied (+150) — about +5.7 points of edge. Sporting have won five straight with four clean sheets at home; United just lost 0-4 at Liverpool, top UCL scorer Cunha is suspended, and United have one away win in eleven in Europe. [Line watch 2026-11-25 14:05 EST FINAL SWEEP: moneyline consensus ~+148 (SportsBettingDime +148, Action Network +150, FanDuel +140, legalbet 2.50) vs +150 published - a 2-pt drift, below the 20-pt threshold; no spread block on this pick. Market de-juiced now ~38.1% vs our 44% - edge ~+5.9 pts, still above the 4-pt A-grade line. Starting XIs CONFIRMED: Sporting - Rui Silva; Quaresma, Inacio, Araujo; Doumbia, Altimira, Andersen, Catamo; Felicissimo; Ioannidis, Suarez. Man Utd - Lammens; Dalot, Heaven, Maguire, Yoro; Mainoo, Tielemans; Mount, Fernandes, Amad; Mbeumo (Zirkzee on the bench). Cunha suspended as expected; Rashford, Sesko, Baleba, Ugarte also out; Shaw back in the squad but not starting. No new core surprise. Pick stands - execute per the morning board. This is the final sweep for this game.]",
    "reasoning_zh": "自估44%对市场去水约38.3%（+150），错价约+5.7点。葡萄牙体育五连胜、四场零封主场强势；曼联刚0-4惨败利物浦，欧冠头号射手库尼亚停赛，欧战客场11场仅1胜。【14:05盯盘更正（终扫）：独赢共识约+148（SportsBettingDime +148、Action Network +150、FanDuel +140、legalbet 2.50），较早盘+150仅漂移2点、未达20点阈值；本单无让分块。市场去水现约38.1%，自估44%，错价约+5.9点，仍在4点A级线之上。首发阵容已确认：葡萄牙体育——鲁伊·席尔瓦；夸雷斯马、伊纳西奥、阿劳若；敦比亚、阿尔蒂米拉、安德森、卡塔莫；费利西西莫；约安尼迪斯、苏亚雷斯。曼联——拉门斯；达洛特、海文、马奎尔、约罗；梅努、蒂莱曼斯；芒特、费尔南德斯、阿马德；姆贝乌莫（齐尔克泽替补）。库尼亚如预期停赛；拉什福德、塞斯科、巴莱巴、乌加特同样缺阵；卢克·肖回归大名单但未首发。无新核心变数。推荐不变，照原单执行。本场终扫完毕。】",
-   "status": "pending",
-   "score": null
+   "status": "lost",
+   "score": "2-2"
   },
   {
    "id": "nba-20261125-mia-phi",
@@ -820,8 +742,8 @@
    "confidence": "medium",
    "reasoning_en": "Conditional — counts only if Giannis Antetokounmpo plays, otherwise void. Self-estimated 54% (with Giannis) vs ~48.5% market-implied (-102) — about +5.5 points of edge. Miami's net rating is +4.8 (7th) vs Philadelphia's +1.6 (15th); the 76ers' 14-4 record flatters them, and Embiid is doubtful (illness). [Line watch 2026-11-25 11:17 EST: moneyline corrected -102 -> +110 (consensus; FanDuel +108, 10-book consensus +111, Kalshi ~48c). Market de-juiced now ~46.0% vs our 54% — edge now ~+8.0 pts, above the 4-pt A-grade line. Pick stands and is strengthened. Spread unchanged at +1.5 (-110). Giannis still QUESTIONABLE (right groin tendinitis; practiced Tuesday and coach optimistic — not yet confirmed); Embiid still doubtful (illness) as expected. Final sweep at the 16:14 round.] [Line watch 2026-11-25 16:14 EST FINAL SWEEP: moneyline consensus ~+100/+105 (DraftKings +105, BetMGM +100, StatMuse +100/+106, Polymarket ~48c) vs +110 at 11:17 - a 5-10 pt drift, below the 20-pt threshold; spread still +1.5 (-110). Market de-juiced now ~47-48% vs our 54% - edge ~+6 to +7 pts, still above the 4-pt A-grade line. Giannis UPGRADED to probable (right groin tendinitis; NBC Sports/FantasyPros citing Ira Winderman; SI projected starters list him) - the condition is expected to be met, but official starting lineups are not yet released (expected ~16:30 ET), so the final call is pending the official list; if Giannis sits, the pick is VOID. Joel Embiid is CONFIRMED OUT (illness) for Philadelphia, as expected - helps Miami. Pick stands - execute per the morning board, subject to Giannis playing. This is the final sweep for this game.]",
    "reasoning_zh": "条件单：字母哥出战才成立，否则作废。自估54%（字母哥出战时）对市场去水约48.5%（-102），错价约+5.5点。热火净效率+4.8（第7）对76人+1.6（第15），76人14胜4负战绩虚高，恩比德生病存疑。【11:17盯盘更正：独赢赔率 -102 → +110（共识；FanDuel +108、10家共识+111、Kalshi约48美分）。市场去水现约46.0%，自估54%，错价约+8.0点，仍在4点A级线之上，推荐不变且价值更大。让分仍+1.5（-110）未动。字母哥仍存疑（右腹股沟肌腱炎；周二参加训练、主帅乐观——尚未官方确认）；恩比德仍生病存疑（在预期内）。终扫在16:14那轮。】【16:14盯盘更正（终扫）：独赢共识约+100/+105（DraftKings +105、BetMGM +100、StatMuse +100/+106、Polymarket约48美分），较11:17的+110仅漂移5-10点、未达20点阈值；让分仍+1.5（-110）未动。市场去水现约47-48%，自估54%，错价约+6至+7点，仍在4点A级线之上。字母哥已升级为大概率出战（右腹股沟肌腱炎；NBC Sports/FantasyPros引Ira Winderman；SI预计首发名单中有他）——条件预计成立，但官方首发名单尚未公布（预计约16:30），最终以官方名单为准；若字母哥缺阵本单作废。恩比德确认缺阵（生病），在预期内、利好热火。推荐不变，照原单执行（以字母哥出战为准）。本场终扫完毕。】",
-   "status": "pending",
-   "score": null,
+   "status": "lost",
+   "score": "111-104",
    "spread": {
     "selection": "Miami Heat",
     "line": 1.5,
@@ -830,7 +752,7 @@
     "cover_prob": 59,
     "note_en": "Market +1.5 vs fair -1.2; cover prob ~59% from the 54% win estimate (normal margin model, sd ~12). Condition inherited: void if Giannis does not play. Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场受让1.5分，对比公允受让-1.2分；按自估54%胜率折算覆盖概率约59%。条件继承：字母哥不出战则作废。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "lost"
    }
   },
   {
@@ -847,8 +769,8 @@
    "confidence": "high",
    "reasoning_en": "Self-estimated 50% vs ~41.9% market-implied (+129) — about +8.1 points of edge. Net-rating gap is 10.1 points (Chicago -1.4 vs Charlotte -11.5, league-worst); the Hornets are 1-9 in their last 10 on a five-game losing streak and already eliminated from the NBA Cup.",
    "reasoning_zh": "自估50%对市场去水约41.9%（+129），错价约+8.1点。净效率差10.1点（公牛-1.4对黄蜂-11.5联盟最差）；黄蜂近10场1胜9负、5连败，杯赛已出局。",
-   "status": "pending",
-   "score": null,
+   "status": "won",
+   "score": "105-107",
    "spread": {
     "selection": "Chicago Bulls",
     "line": 3.5,
@@ -857,7 +779,7 @@
     "cover_prob": 61,
     "note_en": "Market +3.5 vs fair 0.0 (pick'em); cover prob ~61% from the 50% win estimate (normal margin model, sd ~12). Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场受让3.5分，对比公允均势（0分）；按自估50%胜率折算覆盖概率约61%。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   },
   {
@@ -874,8 +796,8 @@
    "confidence": "medium",
    "reasoning_en": "Self-estimated 53% vs ~48.0% market-implied (+100) — about +5.0 points of edge. Minnesota's net rating is +7.5 (2nd) with the league's best defense; Oklahoma City have seven players out including Holmgren and Jalen Williams, and have lost six of eight. [Line watch 2026-11-25 19:29 EST FINAL SWEEP: moneyline consensus ~+105 (SI +105, Action Network +105, DraftKings +110, BetMGM +100, StatMuse +107/+111) vs +100 published - a 5-pt drift toward a longer price, below the 20-pt threshold; spread still +1.5 (-110) consensus, unchanged. Market de-juiced now ~46.5% vs our 53% - edge ~+6.5 pts, still above the 4-pt A-grade line. Starters CONFIRMED (Sportradar): Minnesota - LaMelo Ball, Ayo Dosunmu, Jonathan Kuminga, Jaden McDaniels, Rudy Gobert; Oklahoma City - Shai Gilgeous-Alexander, Ajay Mitchell, Micah Peavy, Isaiah Hartenstein, Bennett Stirtz. Alex Caruso is BACK for OKC after missing three games (hip) - a rotation boost for the Thunder, already reflected in the drift; not a core change. Anthony Edwards (knee arthroscopy, Oct 29) remains OUT - a long-standing absence, Minnesota are 8-2 without him and the board's 53% was built on the Edwards-less side, so no read change. OKC's seven outs (Holmgren, Jalen Williams, Cason Wallace, Jaylin Williams, Mara, Topic, Sorber) all confirmed as expected. No new core injury. Pick stands - execute per the morning board. This is the final sweep for this game.]",
    "reasoning_zh": "自估53%对市场去水约48.0%（+100），错价约+5.0点。森林狼净效率+7.5（第2）、防守联盟第1；雷霆7人伤缺（含霍姆格伦与杰伦·威廉姆斯），近8场输6场。【19:29盯盘更正（终扫）：独赢共识约+105（SI +105、Action Network +105、DraftKings +110、BetMGM +100、StatMuse +107/+111），较早盘+100仅漂移5点且方向利好、未达20点阈值；让分仍+1.5（-110）共识未动。市场去水现约46.5%，自估53%，错价约+6.5点，仍在4点A级线之上。首发已确认（Sportradar）：森林狼——鲍尔、多森姆、库明加、麦克丹尼尔斯、戈贝尔；雷霆——SGA、米切尔、皮维、哈滕施泰因、斯特尔茨。雷霆卡鲁索伤愈复出（此前因臀伤缺3场），轮换补强、已反映在盘口漂移里，非核心变化。爱德华兹（10月29日膝关节镜手术）继续缺阵——长期伤缺，森林狼无他8胜2负，早盘53%自估已按无爱德华兹的阵容定价，自估不变。雷霆7人缺阵（霍姆格伦、杰伦·威廉姆斯、卡森·华莱士、杰林·威廉姆斯、马拉、托皮奇、索伯）全部如预期确认。无新核心伤停。推荐不变，照原单执行。本场终扫完毕。】",
-   "status": "pending",
-   "score": null,
+   "status": "won",
+   "score": "106-113",
    "spread": {
     "selection": "Minnesota Timberwolves",
     "line": 1.5,
@@ -884,14 +806,14 @@
     "cover_prob": 58,
     "note_en": "Market +1.5 vs fair -0.9; cover prob ~58% from the 53% win estimate (normal margin model, sd ~12). Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场受让1.5分，对比公允受让-0.9分；按自估53%胜率折算覆盖概率约58%。让分数据单独统计，不计入独赢战绩。",
-    "status": "pending"
+    "status": "won"
    }
   }
  ],
  "record": {
-  "asOf": "2026-11-24",
-  "wins": 66,
-  "losses": 50,
+  "asOf": "2026-11-25",
+  "wins": 68,
+  "losses": 52,
   "pushes": 0,
   "halfWins": 1,
   "roiPercent": null
