@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-26T22:57:16-05:00",
+ "generatedAt": "2026-11-27T09:24:33-05:00",
  "picks": [
   {
    "id": "nba-20261111-okc-por",
@@ -780,6 +780,33 @@
     "note_en": "Market +1.5 vs fair -0.9; cover prob ~58% from the 53% win estimate (normal margin model, sd ~12). Spread data — tracked separately from the moneyline record.",
     "note_zh": "市场受让1.5分，对比公允受让-0.9分；按自估53%胜率折算覆盖概率约58%。让分数据单独统计，不计入独赢战绩。",
     "status": "won"
+   }
+  },
+  {
+   "id": "nhl-20261127-ott-tb",
+   "sport": "nhl",
+   "league": "nhl",
+   "home_team": "Tampa Bay Lightning",
+   "away_team": "Ottawa Senators",
+   "start_time": "2026-11-27T15:00:00",
+   "market": "moneyline",
+   "selection": "Ottawa Senators",
+   "odds": 120,
+   "odds_format": "american",
+   "confidence": "high",
+   "reasoning_en": "Conditional — counts only if Linus Ullmark is confirmed as Ottawa's starting goalie, otherwise void. Self-estimated 51% vs ~43.7% market-implied (+120) — about +7.3 points of edge. Ullmark is 12-2-0 with a league-best 1.63 GAA and .935 save percentage; Ottawa lead the Atlantic (35 pts in 26 games) while Vasilevskiy is at .897 this season, and Tampa Bay's Hedman and Cernak are both day-to-day with illness.",
+   "reasoning_zh": "条件单：乌尔马克确认首发才成立，否则作废。自估51%对市场去水约43.7%（+120），错价约+7.3点。乌尔马克本季12胜2负、1.63场均失球、.935扑救率均领跑联盟；参议员大西洋区第一（26场35分），瓦西列夫斯基本季扑救率仅.897，闪电赫德曼与切尔纳克均生病存疑。",
+   "status": "pending",
+   "score": null,
+   "spread": {
+    "selection": "Ottawa Senators",
+    "line": 1.5,
+    "odds": -210,
+    "fair_line": null,
+    "cover_prob": 73,
+    "note_en": "Market puck line +1.5 (-210) vs our cover estimate ~73% (derived from the 51% win estimate: 51% wins plus ~45% of the 49% losses by exactly one goal). The moneyline edge carries to the puck line at this price. Condition inherited: void if Ullmark does not start. Spread data — tracked separately from the moneyline record.",
+    "note_zh": "市场让分盘参议员+1.5（-210），我们的过盘概率估约73%（由自估51%胜率换算：51%胜场加上49%负场中约45%只输1球）。独赢的错价传导到了让分盘。条件继承：乌尔马克不首发则作废。让分数据单独统计，不计入独赢战绩。",
+    "status": "pending"
    }
   }
  ],
