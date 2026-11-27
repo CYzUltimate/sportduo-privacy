@@ -1,34 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-25T22:58:15-05:00",
+ "generatedAt": "2026-11-26T22:57:16-05:00",
  "picks": [
-  {
-   "id": "nba-20261111-gsw-hou",
-   "sport": "nba",
-   "league": "nba",
-   "home_team": "Houston Rockets",
-   "away_team": "Golden State Warriors",
-   "start_time": "2026-11-11T21:30:00",
-   "market": "moneyline",
-   "selection": "Golden State Warriors",
-   "odds": 196,
-   "odds_format": "american",
-   "confidence": "medium",
-   "reasoning_en": "Eight-game win streak behind a red-hot Curry (32.3 ppg last 5); Houston are without both centres, leaving Sengun alone inside. Our 38% vs market 32.5% (+5.5 pts edge).",
-   "reasoning_zh": "勇士8连胜、库里近5场32.3分；火箭两名中锋全缺，内线只剩申京。自估38%对市场32.5%，错价+5.5点。",
-   "status": "lost",
-   "score": "115-108",
-   "spread": {
-    "selection": "Golden State Warriors",
-    "line": 6.5,
-    "odds": -113,
-    "fair_line": 3.5,
-    "cover_prob": 59,
-    "note_en": "Market +6.5 (-113) vs our fair +3.5 (derived from the 38% win estimate): about 3 pts of cushion. Spread data - tracked separately from the moneyline record.",
-    "note_zh": "市场盘勇士 +6.5（-113），我们的公平盘 +3.5（由自估38%胜率换算）：约3分余量。让分数据单独跟踪，不计入独赢战绩。",
-    "status": "lost"
-   }
-  },
   {
    "id": "nba-20261111-okc-por",
    "sport": "nba",
@@ -811,7 +784,7 @@
   }
  ],
  "record": {
-  "asOf": "2026-11-25",
+  "asOf": "2026-11-26",
   "wins": 68,
   "losses": 52,
   "pushes": 0,
