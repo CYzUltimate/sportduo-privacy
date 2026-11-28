@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-28T11:21:56-05:00",
+ "generatedAt": "2026-11-28T12:24:00-05:00",
  "picks": [
   {
    "id": "nhl-20261112-mtl-bos",
@@ -828,8 +828,8 @@
    "odds": -110,
    "odds_format": "american",
    "confidence": "high",
-   "reasoning_en": "Self-estimated 59% vs ~50.1% market-implied (-110) — about +8.9 points of edge. Goalie gap: Hofer .919/2.36 vs Thompson .879/3.37; St. Louis are 7-2-1 in their last 10 with 31 points vs Washington's 22, and the Capitals are missing Kyrou and Sandin.",
-   "reasoning_zh": "自估59%对市场去水约50.1%（-110），错价约+8.9点。门将差：霍弗.919/2.36对汤普森.879/3.37；蓝调近10场7-2-1、31分对首都人22分，首都人缺基鲁、桑丁。",
+   "reasoning_en": "Self-estimated 59% vs ~50.1% market-implied (-110) — about +8.9 points of edge. Goalie gap: Hofer .919/2.36 vs Thompson .879/3.37; St. Louis are 7-2-1 in their last 10 with 31 points vs Washington's 22, and the Capitals are missing Kyrou and Sandin. [Line watch 2026-11-28 12:14 EST: Goalie change — the board priced Hofer (.919/2.36) vs Thompson (.879/3.37), but BOTH played Friday (Hofer 25 saves in the 5-3 win over Dallas; Thompson 28/31 in the loss), and NHL.com projected lineups now list Jordan Binnington (.847, -9.6 GSAx, second-worst in the league) for St. Louis and Charlie Lindgren (.849) for Washington — multiple outlets agree (Action Network, nhlpredictions.ai 78%/86%, gridironandwine). The headline goalie gap is gone; both teams start their backup on the second night of a back-to-back. Our read slips to ~52-53%, edge now ~+2 to +3 pts vs market ~50.1% de-juiced, below the 4-pt A-grade line. Value thin — recommend abandoning, pending user's call. Moneyline consensus ~-110 (vs -110 published), no move; puck line still -1.5 (+210). Starters projected, not yet officially confirmed — final confirmation at the 18:14 sweep.]",
+   "reasoning_zh": "自估59%对市场去水约50.1%（-110），错价约+8.9点。门将差：霍弗.919/2.36对汤普森.879/3.37；蓝调近10场7-2-1、31分对首都人22分，首都人缺基鲁、桑丁。【12:14盯盘更正：门将换人——早盘按霍弗（.919/2.36）对汤普森（.879/3.37）定价，但两人昨晚都打满了（霍弗5-3胜达拉斯25扑；汤普森28/31告负），NHL官网预计阵容今晚为宾宁顿（.847，-9.6 GSAx，联盟倒数第二）对林德格伦（.849），多家一致（Action Network、nhlpredictions.ai 78%/86%、gridironandwine）。头号门将差距没了，两队背靠背第二夜都上替补门将。自估下修至约52-53%，错价约+2至+3点（市场去水约50.1%），跌破4点A级线，价值已薄，建议放弃，等用户定夺。独赢共识约-110（早盘-110）未动；让分仍-1.5（+210）。门将为预计、尚未官方确认，18:14终扫再核。】",
    "status": "pending",
    "score": null
   },
