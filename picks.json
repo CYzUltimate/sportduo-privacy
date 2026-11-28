@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-28T09:23:54-05:00",
+ "generatedAt": "2026-11-28T11:21:56-05:00",
  "picks": [
   {
    "id": "nhl-20261112-mtl-bos",
@@ -845,8 +845,8 @@
    "odds": -114,
    "odds_format": "american",
    "confidence": "high",
-   "reasoning_en": "Self-estimated 56% vs ~50.9% market-implied (-114) — about +5.1 points of edge. Sorokin is confirmed in net at .917/2.40 vs Vladar's .878/3.20; the Islanders have 29 points to Philadelphia's 26, and Michkov's status is unconfirmed after being scratched Friday.",
-   "reasoning_zh": "自估56%对市场去水约50.9%（-114），错价约+5.1点。索罗金已确认首发，.917/2.40对弗拉达尔.878/3.20；岛民29分对飞人26分，米奇科夫周五被雪藏后状态未确认。",
+   "reasoning_en": "Self-estimated 56% vs ~50.9% market-implied (-114) — about +5.1 points of edge. Sorokin is confirmed in net at .917/2.40 vs Vladar's .878/3.20; the Islanders have 29 points to Philadelphia's 26, and Michkov's status is unconfirmed after being scratched Friday. [Line watch 2026-11-28 11:14 EST: Matvei Michkov is CONFIRMED back in the Flyers lineup tonight (coach Rick Tocchet confirmed after Friday's game; scratched Friday for a team-rules violation) — the board's open question resolves against us; Owen Tippett is also expected back. Our read slips to ~53-54%, edge now ~+1.5 to +2.5 pts vs market ~51.6% de-juiced, below the 4-pt A-grade line. Value thin — recommend abandoning, pending user's call. Moneyline consensus ~-116/-117 (vs -114 published), a 2-3 pt drift, below the 20-pt threshold; Sorokin confirmed to start as expected; Joseph Woll expected for Philadelphia (not yet confirmed, .887 vs Vladar's .878).]",
+   "reasoning_zh": "自估56%对市场去水约50.9%（-114），错价约+5.1点。索罗金已确认首发，.917/2.40对弗拉达尔.878/3.20；岛民29分对飞人26分，米奇科夫周五被雪藏后状态未确认。【11:14盯盘更正：飞人头号得分手米奇科夫确认今晚复出（主帅托切特赛后确认；周五因队内纪律被雪藏）——早盘悬念落定、对我们不利；蒂佩特预计复出。自估下修至约53-54%，错价约+1.5至+2.5点（市场去水约51.6%），跌破4点A级线，价值已薄，建议放弃，等用户定夺。独赢共识约-116/-117（早盘-114），仅漂移2-3点、未达20点阈值；索罗金如预期确认首发；飞人门将预计为沃尔（未官宣，.887略优于弗拉达尔.878）。】",
    "status": "pending",
    "score": null
   },
